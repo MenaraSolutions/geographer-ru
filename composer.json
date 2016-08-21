@@ -1,0 +1,15 @@
+{
+    "name": "menarasolutions/geographer-ru",
+    "type": "library",
+    "description": "Russian translations for Geographer library",
+    "keywords": ["geolocation","localization","geonames","geo"],
+    "homepage": "https://github.com/MenaraSolutions/geographer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@menara.com.au",
+            "homepage": "https://www.menara.com.au"
+        }
+    ]
+}
