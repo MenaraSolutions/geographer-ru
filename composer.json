@@ -2,8 +2,8 @@
     "name": "menarasolutions/geographer-ru",
     "type": "library",
     "description": "Russian translations for Geographer library",
-    "keywords": ["geolocation","localization","geonames","geo"],
-    "homepage": "https://github.com/MenaraSolutions/geographer",
+    "keywords": ["russian","geographer","geolocation","localization"],
+    "homepage": "https://github.com/MenaraSolutions/geographer-ru",
     "license": "MIT",
     "authors": [
         {
