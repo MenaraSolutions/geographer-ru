@@ -7,3 +7,9 @@ This repository is a set of JSON files that contain Russian translations for [Ge
 to any specific language and may be used by different SDKs or applications.
 
 Feel free to submit translation fixes and additions directly to this repo.
+
+## Current translation coverage
+
+Country names: 100%
+State (subdivision) names: 44%
+Cities: TBC
