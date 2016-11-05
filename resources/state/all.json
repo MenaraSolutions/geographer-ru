@@ -1,5 +1,1307 @@
 [
   {
+    "code": "ID-AC",
+    "long": {
+      "default": "Ачех"
+    }
+  },
+  {
+    "code": "ID-YO",
+    "long": {
+      "default": "Джокьякарта"
+    }
+  },
+  {
+    "code": "ID-SB",
+    "long": {
+      "default": "Западная Суматра"
+    }
+  },
+  {
+    "code": "ID-SG",
+    "long": {
+      "default": "Юго-Восточный Сулавеси"
+    }
+  },
+  {
+    "code": "ID-SN",
+    "long": {
+      "default": "Южный Сулавеси"
+    }
+  },
+  {
+    "code": "ID-RI",
+    "long": {
+      "default": "Риау"
+    }
+  },
+  {
+    "code": "ID-NT",
+    "long": {
+      "default": "Восточные Малые Зондские острова"
+    }
+  },
+  {
+    "code": "ID-NB",
+    "long": {
+      "default": "Западные Малые Зондские острова"
+    }
+  },
+  {
+    "code": "ID-MA",
+    "long": {
+      "default": "Малуку"
+    }
+  },
+  {
+    "code": "ID-LA",
+    "long": {
+      "default": "Лампунг"
+    }
+  },
+  {
+    "code": "ID-KI",
+    "long": {
+      "default": "Восточный Калимантан"
+    }
+  },
+  {
+    "code": "ID-KT",
+    "long": {
+      "default": "Центральный Калимантан"
+    }
+  },
+  {
+    "code": "ID-KS",
+    "long": {
+      "default": "Южный Калимантан"
+    }
+  },
+  {
+    "code": "ID-KB",
+    "long": {
+      "default": "Западный Калимантан"
+    }
+  },
+  {
+    "code": "ID-JT",
+    "long": {
+      "default": "Центральная Ява"
+    }
+  },
+  {
+    "code": "ID-JA",
+    "long": {
+      "default": "Джамби"
+    }
+  },
+  {
+    "code": "ID-JK",
+    "long": {
+      "default": "Джакарта"
+    }
+  },
+  {
+    "code": "ID-PA",
+    "long": {
+      "default": "Папуа"
+    }
+  },
+  {
+    "code": "ID-BE",
+    "long": {
+      "default": "Бенгкулу"
+    }
+  },
+  {
+    "code": "ID-BA",
+    "long": {
+      "default": "Бали"
+    }
+  },
+  {
+    "code": "ID-GO",
+    "long": {
+      "default": "Горонтало"
+    }
+  },
+  {
+    "code": "ID-BB",
+    "long": {
+      "default": "Бангка-Белитунг"
+    }
+  },
+  {
+    "code": "ID-MU",
+    "long": {
+      "default": "Северное Малуку"
+    }
+  },
+  {
+    "code": "ID-PB",
+    "long": {
+      "default": "Западное Папуа"
+    }
+  },
+  {
+    "code": "ID-SR",
+    "long": {
+      "default": "Западный Сулавеси"
+    }
+  },
+  {
+    "code": "ID-KR",
+    "long": {
+      "default": "Острова Риау"
+    }
+  },
+  {
+    "code": "ID-KU",
+    "long": {
+      "default": "Северный Калимантан"
+    }
+  },
+  {
+    "code": "IN-OR",
+    "long": {
+      "default": "Орисса"
+    }
+  },
+  {
+    "code": "IN-LD",
+    "long": {
+      "default": "Лакшадвип"
+    }
+  },
+  {
+    "code": "IN-JK",
+    "long": {
+      "default": "Джамму и Кашмир"
+    }
+  },
+  {
+    "code": "IN-DL",
+    "long": {
+      "default": "Дели"
+    }
+  },
+  {
+    "code": "IN-UT",
+    "long": {
+      "default": "Уттаракханд"
+    }
+  },
+  {
+    "code": "IS-5",
+    "long": {
+      "default": "Нордурланд Вестра"
+    }
+  },
+  {
+    "code": "IS-6",
+    "long": {
+      "default": "Нордюрланд-Эйстра"
+    }
+  },
+  {
+    "code": "IS-7",
+    "long": {
+      "default": "Эйстюрланд"
+    }
+  },
+  {
+    "code": "IS-8",
+    "long": {
+      "default": "Сюдюрланд"
+    }
+  },
+  {
+    "code": "IS-1",
+    "long": {
+      "default": "Хёвюдборгарсвайдид"
+    }
+  },
+  {
+    "code": "IS-2",
+    "long": {
+      "default": "Судурнэс"
+    }
+  },
+  {
+    "code": "IS-3",
+    "long": {
+      "default": "Вестурланд"
+    }
+  },
+  {
+    "code": "IS-4",
+    "long": {
+      "default": "Вестфирдир"
+    }
+  },
+  {
+    "code": "HU-HE",
+    "long": {
+      "default": "Хевеш"
+    }
+  },
+  {
+    "code": "HU-CS",
+    "long": {
+      "default": "Чонград"
+    }
+  },
+  {
+    "code": "HU-BE",
+    "long": {
+      "default": "Бекеш"
+    }
+  },
+  {
+    "code": "HU-VE",
+    "long": {
+      "default": "Веспрем"
+    }
+  },
+  {
+    "code": "HU-TO",
+    "long": {
+      "default": "Тольна"
+    }
+  },
+  {
+    "code": "HU-SO",
+    "long": {
+      "default": "Шомодь"
+    }
+  },
+  {
+    "code": "HU-PE",
+    "long": {
+      "default": "Пешт"
+    }
+  },
+  {
+    "code": "HU-NO",
+    "long": {
+      "default": "Ноград"
+    }
+  },
+  {
+    "code": "HU-BU",
+    "long": {
+      "default": "Будапешт"
+    }
+  },
+  {
+    "code": "HU-BA",
+    "long": {
+      "default": "Баранья"
+    }
+  },
+  {
+  "code": "HN-YO",
+  "long": {
+    "default": "Йоро"
+    }
+  },
+  {
+    "code": "HN-VA",
+    "long": {
+      "default": "Валье"
+    }
+  },
+  {
+    "code": "HN-SB",
+    "long": {
+      "default": "Санта-Барбара"
+    }
+  },
+  {
+    "code": "HN-OL",
+    "long": {
+      "default": "Оланчо"
+    }
+  },
+  {
+    "code": "HN-OC",
+    "long": {
+      "default": "Окотепеке"
+    }
+  },
+  {
+    "code": "HN-LE",
+    "long": {
+      "default": "Лемпира"
+    }
+  },
+  {
+    "code": "HN-LP",
+    "long": {
+      "default": "Ла-Пас"
+    }
+  },
+  {
+    "code": "HN-IB",
+    "long": {
+      "default": "Ислас-де-ла-Баия"
+    }
+  },
+  {
+    "code": "HN-IN",
+    "long": {
+      "default": "Интибука"
+    }
+  },
+  {
+    "code": "HN-FM",
+    "long": {
+      "default": "Франсиско-Морасан "
+    }
+  },
+  {
+    "code": "HN-EP",
+    "long": {
+      "default": "Эль-Параисо"
+    }
+  },
+  {
+    "code": "HN-CR",
+    "long": {
+      "default": "Кортес"
+    }
+  },
+  {
+    "code": "HN-CP",
+    "long": {
+      "default": "Копан"
+    }
+  },
+  {
+    "code": "HN-CM",
+    "long": {
+      "default": "Комаягуа"
+    }
+  },
+  {
+    "code": "HN-CL",
+    "long": {
+      "default": "Колон"
+    }
+  },
+  {
+    "code": "HN-CH",
+    "long": {
+      "default": "Чолутека"
+    }
+  },
+  {
+    "code": "HN-AT",
+    "long": {
+      "default": "Атлантида"
+    }
+  },
+  {
+    "code": "HT-SE",
+    "long": {
+      "default": "Юго-Восточный департамент"
+    }
+  },
+  {
+    "code": "HT-SD",
+    "long": {
+      "default": "Южный департамент"
+    }
+  },
+  {
+    "code": "HT-OU",
+    "long": {
+      "default": "Западный департамент"
+    }
+  },
+  {
+    "code": "HT-NO",
+    "long": {
+      "default": "Северо-Западный департамент"
+    }
+  },
+  {
+    "code": "HT-NE",
+    "long": {
+      "default": "Северо-Восточный департамент"
+    }
+  },
+  {
+    "code": "HT-ND",
+    "long": {
+      "default": "Северный департамент"
+    }
+  },
+  {
+    "code": "HT-GA",
+    "long": {
+      "default": "Гранд-Анс"
+    }
+  },
+  {
+    "code": "HT-CE",
+    "long": {
+      "default": "Центральный департамент"
+    }
+  },
+  {
+    "code": "HT-AR",
+    "long": {
+      "default": "Артибонит"
+    }
+  },
+  {
+    "code": "HT-NI",
+    "long": {
+      "default": "Нип"
+    }
+  },
+  {
+    "code": "GY-UT",
+    "long": {
+      "default": "Верхний Такуту-Верхний Эссекуибо"
+    }
+  },
+  {
+    "code": "GY-UD",
+    "long": {
+      "default": "Верхний Демерара-Бербайс"
+    }
+  },
+  {
+    "code": "GY-PT",
+    "long": {
+      "default": "Потаро-Сипаруни"
+    }
+  },
+  {
+    "code": "GY-PM",
+    "long": {
+      "default": "Померун-Супенаам"
+    }
+  },
+  {
+    "code": "GY-MA",
+    "long": {
+      "default": "Махаиса-Бербайс"
+    }
+  },
+  {
+    "code": "GY-ES",
+    "long": {
+      "default": "Эссекуибо-Айлендс-Западный Демерара"
+    }
+  },
+  {
+    "code": "GY-EB",
+    "long": {
+      "default": "Восточный Бербайс-Корентин"
+    }
+  },
+  {
+    "code": "GY-DE",
+    "long": {
+      "default": "Демерара-Махаиса"
+    }
+  },
+  {
+    "code": "GY-CU",
+    "long": {
+      "default": "Куйуни-Мазаруни"
+    }
+  },
+  {
+    "code": "GY-BA",
+    "long": {
+      "default": "Барима-Ваини"
+    }
+  },
+  {
+    "code": "GW-TO",
+    "long": {
+      "default": "Томбала"
+    }
+  },
+  {
+    "code": "GW-QU",
+    "long": {
+      "default": "Кинара"
+    }
+  },
+  {
+    "code": "GW-OI",
+    "long": {
+      "default": "Ойо"
+    }
+  },
+  {
+    "code": "GW-GA",
+    "long": {
+      "default": "Габу"
+    }
+  },
+  {
+    "code": "GW-CA",
+    "long": {
+      "default": "Кашеу"
+    }
+  },
+  {
+    "code": "GW-BL",
+    "long": {
+      "default": "Болама"
+    }
+  },
+  {
+    "code": "GW-BS",
+    "long": {
+      "default": "Бисау"
+    }
+  },
+  {
+    "code": "GW-BM",
+    "long": {
+      "default": "Биомбо"
+    }
+  },
+  {
+    "code": "GW-BA",
+    "long": {
+      "default": "Бафата"
+    }
+  },
+  {
+    "code": "GN-C",
+    "long": {
+      "default": "Конакри"
+    }
+  },
+  {
+    "code": "GN-BK",
+    "long": {
+      "default": "Боке"
+    }
+  },
+  {
+    "code": "GN-FA",
+    "long": {
+      "default": "Фарана"
+    }
+  },
+  {
+    "code": "GN-KA",
+    "long": {
+      "default": "Канкан"
+    }
+  },
+  {
+    "code": "GN-KD",
+    "long": {
+      "default": "Киндия"
+    }
+  },
+  {
+    "code": "GN-LA",
+    "long": {
+      "default": "Лабе"
+    }
+  },
+  {
+    "code": "GN-MM",
+    "long": {
+      "default": "Маму"
+    }
+  },
+  {
+    "code": "GN-NZ",
+    "long": {
+      "default": "Нзерекоре"
+    }
+  },
+  {
+    "code": "GT-ZA",
+    "long": {
+      "default": "Сакапа"
+    }
+  },
+  {
+    "code": "GT-TO",
+    "long": {
+      "default": "Тотоникапан"
+    }
+  },
+  {
+    "code": "GT-SU",
+    "long": {
+      "default": "Сучитепекес"
+    }
+  },
+  {
+    "code": "GT-SO",
+    "long": {
+      "default": "Солола"
+    }
+  },
+  {
+    "code": "GT-SR",
+    "long": {
+      "default": "Санта-Роса"
+    }
+  },
+  {
+    "code": "GT-SM",
+    "long": {
+      "default": "Сан-Маркос"
+    }
+  },
+  {
+    "code": "GT-SA",
+    "long": {
+      "default": "Сакатепекес"
+    }
+  },
+  {
+    "code": "GT-RE",
+    "long": {
+      "default": "Реталулеу"
+    }
+  },
+  {
+    "code": "GT-QC",
+    "long": {
+      "default": "Киче"
+    }
+  },
+  {
+    "code": "GT-QZ",
+    "long": {
+      "default": "Кесальтенанго"
+    }
+  },
+  {
+    "code": "GT-PE",
+    "long": {
+      "default": "Петен"
+    }
+  },
+  {
+    "code": "GT-JU",
+    "long": {
+      "default": "Хутьяпа"
+    }
+  },
+  {
+    "code": "GT-JA",
+    "long": {
+      "default": "Халапа"
+    }
+  },
+  {
+    "code": "GT-IZ",
+    "long": {
+      "default": "Исабаль"
+    }
+  },
+  {
+    "code": "GT-HU",
+    "long": {
+      "default": "Уэуэтенанго"
+    }
+  },
+  {
+    "code": "GT-GU",
+    "long": {
+      "default": "Гватемала"
+    }
+  },
+  {
+    "code": "GT-ES",
+    "long": {
+      "default": "Эскуинтла"
+    }
+  },
+  {
+    "code": "GT-PR",
+    "long": {
+      "default": "Прогресо"
+    }
+  },
+  {
+    "code": "GT-CQ",
+    "long": {
+      "default": "Чикимула"
+    }
+  },
+  {
+    "code": "GT-CM",
+    "long": {
+      "default": "Чимальтенанго"
+    }
+  },
+  {
+    "code": "GT-BV",
+    "long": {
+      "default": "Баха-Верапас"
+    }
+  },
+  {
+    "code": "GT-AV",
+    "long": {
+      "default": "Альта-Верапас"
+    }
+  },
+  {
+    "code": "GD-06",
+    "long": {
+      "default": "Сент-Патрик"
+    }
+  },
+  {
+    "code": "GD-05",
+    "long": {
+      "default": "Сент-Марк"
+    }
+  },
+  {
+    "code": "GD-04",
+    "long": {
+      "default": "Сент-Джон"
+    }
+  },
+  {
+    "code": "GD-03",
+    "long": {
+      "default": "Сент-Джордж"
+    }
+  },
+  {
+    "code": "GD-02",
+    "long": {
+      "default": "Сент-Дэвид"
+    }
+  },
+  {
+    "code": "GD-01",
+    "long": {
+      "default": "Сент-Эндрю"
+    }
+  },
+  {
+    "code": "GD-10",
+    "long": {
+      "default": "Кариаку"
+    }
+  },
+  {
+  "code": "GR-I",
+  "long": {
+    "default": "Аттика"
+    }
+  },
+  {
+    "code": "GR-H",
+    "long": {
+      "default": "Центральная Греция"
+    }
+  },
+  {
+    "code": "GR-B",
+    "long": {
+      "default": "Центральная Македония"
+    }
+  },
+  {
+    "code": "GR-M",
+    "long": {
+      "default": "Крит"
+    }
+  },
+  {
+    "code": "GR-A",
+    "long": {
+      "default": "Восточная Македония и Фракия"
+    }
+  },
+  {
+    "code": "GR-D",
+    "long": {
+      "default": "Эпир"
+    }
+  },
+  {
+    "code": "GR-F",
+    "long": {
+      "default": "Ионические острова"
+    }
+  },
+  {
+    "code": "GR-K",
+    "long": {
+      "default": "Северные Эгейские острова"
+    }
+  },
+  {
+    "code": "GR-J",
+    "long": {
+      "default": "Пелопоннес"
+    }
+  },
+  {
+    "code": "GR-L",
+    "long": {
+      "default": "Южные Эгейские острова"
+    }
+  },
+  {
+    "code": "GR-E",
+    "long": {
+      "default": "Фессалия"
+    }
+  },
+  {
+    "code": "GR-G",
+    "long": {
+      "default": "Западная Греция"
+    }
+  },
+  {
+    "code": "GR-C",
+    "long": {
+      "default": "Западная Македония"
+    }
+  },
+  {
+    "code": "GH-WP",
+    "long": {
+      "default": "Западный регион"
+    }
+  },
+  {
+    "code": "GH-TV",
+    "long": {
+      "default": "Вольта"
+    }
+  },
+  {
+    "code": "GH-UW",
+    "long": {
+      "default": "Верхний Западный регион"
+    }
+  },
+  {
+    "code": "GH-UE",
+    "long": {
+      "default": "Верхний Восточный регион"
+    }
+  },
+  {
+    "code": "GH-NP",
+    "long": {
+      "default": "Северный регион"
+    }
+  },
+  {
+    "code": "GH-AA",
+    "long": {
+      "default": "Большая Аккра"
+    }
+  },
+  {
+    "code": "GH-EP",
+    "long": {
+      "default": "Восточный регион"
+    }
+  },
+  {
+    "code": "GH-CP",
+    "long": {
+      "default": "Центральный регион"
+    }
+  },
+  {
+    "code": "GH-BA",
+    "long": {
+      "default": "Бронг-Ахафо"
+    }
+  },
+  {
+    "code": "GH-AH",
+    "long": {
+      "default": "Ашанти"
+    }
+  },
+  {
+    "code": "DE-TH",
+    "long": {
+      "default": "Тюрингия"
+    }
+  },
+  {
+    "code": "DE-SN",
+    "long": {
+      "default": "Саксония"
+    }
+  },
+  {
+    "code": "DE-MV",
+    "long": {
+      "default": "Мекленбург-Передняя Померания"
+    }
+  },
+  {
+    "code": "DE-HH",
+    "long": {
+      "default": "Гамбург"
+    }
+  },
+  {
+    "code": "GE-TB",
+    "long": {
+      "default": "Тбилиси"
+    }
+  },
+  {
+    "code": "GE-AJ",
+    "long": {
+      "default": "Аджария"
+    }
+  },
+  {
+    "code": "GE-RL",
+    "long": {
+      "default": "Рача-Лечхуми и Квемо-Сванети"
+    }
+  },
+  {
+    "code": "GE-SZ",
+    "long": {
+      "default": "Самегрело и Земо-Сванети"
+    }
+  },
+  {
+    "code": "GM-W",
+    "long": {
+      "default": "Западный округ"
+    }
+  },
+  {
+    "code": "GM-U",
+    "long": {
+      "default": "Верхняя Река"
+    }
+  },
+  {
+    "code": "GM-N",
+    "long": {
+      "default": "Северный Берег"
+    }
+  },
+  {
+    "code": "GM-M",
+    "long": {
+      "default": "Центральная Река"
+    }
+  },
+  {
+    "code": "GM-L",
+    "long": {
+      "default": "Нижняя Река"
+    }
+  },
+  {
+    "code": "GM-B",
+    "long": {
+      "default": "Банжул"
+    }
+  },
+  {
+    "code": "GA-9",
+    "long": {
+      "default": "Волё-Нтем"
+    }
+  },
+  {
+    "code": "GA-8",
+    "long": {
+      "default": "Огове-Маритим"
+    }
+  },
+  {
+    "code": "GA-7",
+    "long": {
+      "default": "Огове-Лоло"
+    }
+  },
+  {
+    "code": "GA-6",
+    "long": {
+      "default": "Огове-Ивиндо"
+    }
+  },
+  {
+    "code": "GA-5",
+    "long": {
+      "default": "Ньянга"
+    }
+  },
+  {
+    "code": "GA-4",
+    "long": {
+      "default": "Нгуни"
+    }
+  },
+  {
+    "code": "GA-3",
+    "long": {
+      "default": "Среднее Огове"
+    }
+  },
+  {
+    "code": "GA-2",
+    "long": {
+      "default": "Верхнее Огове"
+    }
+  },
+  {
+    "code": "FR-J",
+    "long": {
+      "default": "Иль-де-Франс"
+    }
+  },
+  {
+    "code": "FR-H",
+    "long": {
+      "default": "Корсика"
+    }
+  },
+  {
+    "code": "FR-F",
+    "long": {
+      "default": "Центр"
+    }
+  },
+  {
+    "code": "FR-D",
+    "long": {
+      "default": "Бургундия"
+    }
+  },
+  {
+    "code": "FR-B",
+    "long": {
+      "default": "Аквитания"
+    }
+  },
+  {
+    "code": "FR-P",
+    "long": {
+      "default": "Нижняя Нормандия"
+    }
+  },
+  {
+    "code": "FR-A",
+    "long": {
+      "default": "Эльзас"
+    }
+  },
+  {
+    "code": "FR-K",
+    "long": {
+      "default": "Лангедок-Руссильон"
+    }
+  },
+  {
+    "code": "FR-O",
+    "long": {
+      "default": "Нор-Па-де-Кале"
+    }
+  },
+  {
+    "code": "FR-C",
+    "long": {
+      "default": "Овернь"
+    }
+  },
+  {
+    "code": "FR-V",
+    "long": {
+      "default": "Рона-Альпы"
+    }
+  },
+  {
+    "code": "FR-T",
+    "long": {
+      "default": "Пуату-Шаранта"
+    }
+  },
+  {
+    "code": "FR-S",
+    "long": {
+      "default": "Пикардия"
+    }
+  },
+  {
+    "code": "FR-N",
+    "long": {
+      "default": "Южные Пиренеи"
+    }
+  },
+  {
+    "code": "FR-M",
+    "long": {
+      "default": "Лотарингия"
+    }
+  },
+  {
+    "code": "FR-L",
+    "long": {
+      "default": "Лимузен"
+    }
+  },
+  {
+    "code": "FR-Q",
+    "long": {
+      "default": "Верхняя Нормандия"
+    }
+  },
+  {
+    "code": "FR-I",
+    "long": {
+      "default": "Франш-Конте"
+    }
+  },
+  {
+    "code": "FR-G",
+    "long": {
+      "default": "Шампань-Арденны"
+    }
+  },
+  {
+    "code": "FI-02",
+    "long": {
+      "default": "Южная Карелия"
+    }
+  },
+  {
+    "code": "FI-01",
+    "long": {
+      "default": "Аландские острова"
+    }
+  },
+  {
+    "code": "FJ-R",
+    "long": {
+      "default": "Ротума"
+    }
+  },
+  {
+    "code": "ET-AA",
+    "long": {
+      "default": "Аддис-Абеба"
+    }
+  },
+  {
+    "code": "ET-AF",
+    "long": {
+      "default": "Афар"
+    }
+  },
+  {
+    "code": "ET-AM",
+    "long": {
+      "default": "Амхара"
+    }
+  },
+  {
+    "code": "ET-BE",
+    "long": {
+      "default": "Бенишангул-Гумуз"
+    }
+  },
+  {
+    "code": "ET-DD",
+    "long": {
+      "default": "Дыре-Дауа"
+    }
+  },
+  {
+    "code": "ET-GA",
+    "long": {
+      "default": "Гамбела"
+    }
+  },
+  {
+    "code": "ET-HA",
+    "long": {
+      "default": "Харари"
+    }
+  },
+  {
+    "code": "ET-OR",
+    "long": {
+      "default": "Оромия"
+    }
+  },
+  {
+    "code": "ET-SO",
+    "long": {
+      "default": "Сомали"
+    }
+  },
+  {
+    "code": "ET-TI",
+    "long": {
+      "default": "Тыграй"
+    }
+  },
+  {
+    "code": "ET-SN",
+    "long": {
+      "default": "Регион Народов и народностей юга"
+    }
+  },
+  {
+    "code": "ER-AN",
+    "long": {
+      "default": "Ансэба"
+    }
+  },
+  {
+    "code": "ER-DU",
+    "long": {
+      "default": "Дэбуб"
+    }
+  },
+  {
+    "code": "ER-DK",
+    "long": {
+      "default": "Дэбуб-Кэй-Бахри"
+    }
+  },
+  {
+    "code": "ER-GB",
+    "long": {
+      "default": "Гаш-Барка"
+    }
+  },
+  {
+    "code": "ER-MA",
+    "long": {
+      "default": "Маэкель"
+    }
+  },
+  {
+    "code": "ER-SK",
+    "long": {
+      "default": "Сэмиэн-Кэй-Бахри"
+    }
+  },
+  {
     "code": "GQ-AN",
     "long": {
       "default": "Аннобон"
