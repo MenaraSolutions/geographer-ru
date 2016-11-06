@@ -1,5 +1,1361 @@
 [
   {
+    "code": "TO-05",
+    "long": {
+      "default": "Вавау"
+    }
+  },
+  {
+    "code": "TO-04",
+    "long": {
+      "default": "Тонгатапу"
+    }
+  },
+  {
+    "code": "TO-02",
+    "long": {
+      "default": "Хаапай"
+    }
+  },
+  {
+    "code": "TO-01",
+    "long": {
+      "default": "Эуа"
+    }
+  },
+  {
+    "code": "TL-ER",
+    "long": {
+      "default": "Эрмера"
+    }
+  },
+  {
+    "code": "TL-DI",
+    "long": {
+      "default": "Дили"
+    }
+  },
+  {
+    "code": "TL-BO",
+    "long": {
+      "default": "Бобонару"
+    }
+  },
+  {
+    "code": "TL-OE",
+    "long": {
+      "default": "Окуси-Амбено"
+    }
+  },
+  {
+    "code": "TH-61",
+    "long": {
+      "default": "Утхайтхани"
+    }
+  },
+  {
+    "code": "TH-92",
+    "long": {
+      "default": "Транг"
+    }
+  },
+  {
+    "code": "TH-63",
+    "long": {
+      "default": "Так"
+    }
+  },
+  {
+    "code": "TH-84",
+    "long": {
+      "default": "Сураттани"
+    }
+  },
+  {
+    "code": "TH-64",
+    "long": {
+      "default": "Сукхотхай"
+    }
+  },
+  {
+    "code": "TH-70",
+    "long": {
+      "default": "Ратбури"
+    }
+  },
+  {
+    "code": "TH-85",
+    "long": {
+      "default": "Ранонг"
+    }
+  },
+  {
+    "code": "TH-77",
+    "long": {
+      "default": "Прачуапкхирикхан"
+    }
+  },
+  {
+    "code": "TH-83",
+    "long": {
+      "default": "Пхукет"
+    }
+  },
+  {
+    "code": "TH-76",
+    "long": {
+      "default": "Пхетбури"
+    }
+  },
+  {
+    "code": "TH-82",
+    "long": {
+      "default": "Пхангнга"
+    }
+  },
+  {
+    "code": "TH-58",
+    "long": {
+      "default": "Мэхонгсон"
+    }
+  },
+  {
+    "code": "TH-51",
+    "long": {
+      "default": "Лампхун"
+    }
+  },
+  {
+    "code": "TH-52",
+    "long": {
+      "default": "Лампанг"
+    }
+  },
+  {
+    "code": "TH-81",
+    "long": {
+      "default": "Краби"
+    }
+  },
+  {
+    "code": "TH-71",
+    "long": {
+      "default": "Канчанабури"
+    }
+  },
+  {
+    "code": "TH-62",
+    "long": {
+      "default": "Кампхэнгпхет"
+    }
+  },
+  {
+    "code": "TH-86",
+    "long": {
+      "default": "Чумпхон"
+    }
+  },
+  {
+    "code": "TH-57",
+    "long": {
+      "default": "Чианграй"
+    }
+  },
+  {
+    "code": "TH-50",
+    "long": {
+      "default": "Чиангмай"
+    }
+  },
+  {
+    "code": "TH-35",
+    "long": {
+      "default": "Ясотхон"
+    }
+  },
+  {
+    "code": "TH-95",
+    "long": {
+      "default": "Яла"
+    }
+  },
+  {
+    "code": "TH-53",
+    "long": {
+      "default": "Уттарадит"
+    }
+  },
+  {
+    "code": "TH-23",
+    "long": {
+      "default": "Трат"
+    }
+  },
+  {
+    "code": "TH-32",
+    "long": {
+      "default": "Сурин"
+    }
+  },
+  {
+    "code": "TH-72",
+    "long": {
+      "default": "Супханбури"
+    }
+  },
+  {
+    "code": "TH-90",
+    "long": {
+      "default": "Сонгкхла"
+    }
+  },
+  {
+    "code": "TH-33",
+    "long": {
+      "default": "Сисакет"
+    }
+  },
+  {
+    "code": "TH-17",
+    "long": {
+      "default": "Сингбури"
+    }
+  },
+  {
+    "code": "TH-91",
+    "long": {
+      "default": "Сатун"
+    }
+  },
+  {
+    "code": "TH-19",
+    "long": {
+      "default": "Сарабури"
+    }
+  },
+  {
+    "code": "TH-75",
+    "long": {
+      "default": "Самутсонгкхрам"
+    }
+  },
+  {
+    "code": "TH-74",
+    "long": {
+      "default": "Самутсакхон"
+    }
+  },
+  {
+    "code": "TH-11",
+    "long": {
+      "default": "Самутпракан"
+    }
+  },
+  {
+    "code": "TH-47",
+    "long": {
+      "default": "Саконнакхон"
+    }
+  },
+  {
+    "code": "TH-45",
+    "long": {
+      "default": "Ройет"
+    }
+  },
+  {
+    "code": "TH-21",
+    "long": {
+      "default": "Районг"
+    }
+  },
+  {
+    "code": "TH-14",
+    "long": {
+      "default": "Аюттхая"
+    }
+  },
+  {
+    "code": "TH-54",
+    "long": {
+      "default": "Пхрэ"
+    }
+  },
+  {
+    "code": "TH-65",
+    "long": {
+      "default": "Пхитсанулок"
+    }
+  },
+  {
+    "code": "TH-66",
+    "long": {
+      "default": "Пхичит"
+    }
+  },
+  {
+    "code": "TH-67",
+    "long": {
+      "default": "Пхетчабун"
+    }
+  },
+  {
+    "code": "TH-56",
+    "long": {
+      "default": "Пхаяу"
+    }
+  },
+  {
+    "code": "TH-93",
+    "long": {
+      "default": "Пхаттхалунг"
+    }
+  },
+  {
+    "code": "TH-94",
+    "long": {
+      "default": "Паттани"
+    }
+  },
+  {
+    "code": "TH-13",
+    "long": {
+      "default": "Патхумтхани"
+    }
+  },
+  {
+    "code": "TH-12",
+    "long": {
+      "default": "Нонтхабури"
+    }
+  },
+  {
+    "code": "TH-43",
+    "long": {
+      "default": "Нонгкхай"
+    }
+  },
+  {
+    "code": "TH-96",
+    "long": {
+      "default": "Наратхиват"
+    }
+  },
+  {
+    "code": "TH-55",
+    "long": {
+      "default": "Нан"
+    }
+  },
+  {
+    "code": "TH-80",
+    "long": {
+      "default": "Накхонситхаммарат"
+    }
+  },
+  {
+    "code": "TH-60",
+    "long": {
+      "default": "Накхонсаван"
+    }
+  },
+  {
+    "code": "TH-30",
+    "long": {
+      "default": "Накхонратчасима"
+    }
+  },
+  {
+    "code": "TH-48",
+    "long": {
+      "default": "Накхонпханом"
+    }
+  },
+  {
+    "code": "TH-73",
+    "long": {
+      "default": "Накхонпатхом"
+    }
+  },
+  {
+    "code": "TH-26",
+    "long": {
+      "default": "Накхоннайок"
+    }
+  },
+  {
+    "code": "TH-49",
+    "long": {
+      "default": "Мукдахан"
+    }
+  },
+  {
+    "code": "TH-44",
+    "long": {
+      "default": "Махасаракхам"
+    }
+  },
+  {
+    "code": "TH-16",
+    "long": {
+      "default": "Лопбури"
+    }
+  },
+  {
+    "code": "TH-42",
+    "long": {
+      "default": "Лей"
+    }
+  },
+  {
+    "code": "TH-10",
+    "long": {
+      "default": "Бангкок"
+    }
+  },
+  {
+    "code": "TH-40",
+    "long": {
+      "default": "Кхонкэн"
+    }
+  },
+  {
+    "code": "TH-46",
+    "long": {
+      "default": "Каласин"
+    }
+  },
+  {
+    "code": "TH-20",
+    "long": {
+      "default": "Чонбури"
+    }
+  },
+  {
+    "code": "TH-22",
+    "long": {
+      "default": "Чантхабури"
+    }
+  },
+  {
+    "code": "TH-36",
+    "long": {
+      "default": "Чайяпхум"
+    }
+  },
+  {
+    "code": "TH-18",
+    "long": {
+      "default": "Чайнат"
+    }
+  },
+  {
+    "code": "TH-24",
+    "long": {
+      "default": "Чаченгсау"
+    }
+  },
+  {
+    "code": "TH-31",
+    "long": {
+      "default": "Бурирам"
+    }
+  },
+  {
+    "code": "TH-15",
+    "long": {
+      "default": "Ангтхонг"
+    }
+  },
+  {
+    "code": "TH-41",
+    "long": {
+      "default": "Удонтхани"
+    }
+  },
+  {
+    "code": "TH-25",
+    "long": {
+      "default": "Прачинбури"
+    }
+  },
+  {
+    "code": "TH-34",
+    "long": {
+      "default": "Убонратчатхани"
+    }
+  },
+  {
+    "code": "TH-37",
+    "long": {
+      "default": "Амнатчарен"
+    }
+  },
+  {
+    "code": "TH-39",
+    "long": {
+      "default": "Нонгбуалампху"
+    }
+  },
+  {
+    "code": "TH-27",
+    "long": {
+      "default": "Сакэу"
+    }
+  },
+  {
+    "code": "TH-38",
+    "long": {
+      "default": "Бынгкан"
+    }
+  },
+  {
+    "code": "TH-S",
+    "long": {
+      "default": "Паттайя"
+    }
+  },
+  {
+    "code": "TZ-05",
+    "long": {
+      "default": "Кагера"
+    }
+  },
+  {
+    "code": "TZ-15",
+    "long": {
+      "default": "Занзибар Западный"
+    }
+  },
+  {
+    "code": "TZ-07",
+    "long": {
+      "default": "Занзибар Северный"
+    }
+  },
+  {
+    "code": "TZ-11",
+    "long": {
+      "default": "Занзибар Центрально-Южный"
+    }
+  },
+  {
+    "code": "TZ-25",
+    "long": {
+      "default": "Танга"
+    }
+  },
+  {
+    "code": "TZ-24",
+    "long": {
+      "default": "Табора"
+    }
+  },
+  {
+    "code": "TZ-23",
+    "long": {
+      "default": "Сингида"
+    }
+  },
+  {
+    "code": "TZ-22",
+    "long": {
+      "default": "Шиньянга"
+    }
+  },
+  {
+    "code": "TZ-20",
+    "long": {
+      "default": "Рувума"
+    }
+  },
+  {
+    "code": "TZ-19",
+    "long": {
+      "default": "Пвани"
+    }
+  },
+  {
+    "code": "TZ-10",
+    "long": {
+      "default": "Пемба Южная"
+    }
+  },
+  {
+    "code": "TZ-06",
+    "long": {
+      "default": "Пемба Северная"
+    }
+  },
+  {
+    "code": "TZ-18",
+    "long": {
+      "default": "Мванза"
+    }
+  },
+  {
+    "code": "TZ-16",
+    "long": {
+      "default": "Морогоро"
+    }
+  },
+  {
+    "code": "TZ-14",
+    "long": {
+      "default": "Мбея"
+    }
+  },
+  {
+    "code": "TZ-13",
+    "long": {
+      "default": "Мара"
+    }
+  },
+  {
+    "code": "TZ-12",
+    "long": {
+      "default": "Линди"
+    }
+  },
+  {
+    "code": "TZ-09",
+    "long": {
+      "default": "Килиманджаро"
+    }
+  },
+  {
+    "code": "TZ-08",
+    "long": {
+      "default": "Кигома"
+    }
+  },
+  {
+    "code": "TZ-04",
+    "long": {
+      "default": "Иринга"
+    }
+  },
+  {
+    "code": "TZ-03",
+    "long": {
+      "default": "Додома"
+    }
+  },
+  {
+    "code": "TZ-02",
+    "long": {
+      "default": "Дар-эс-Салам"
+    }
+  },
+  {
+    "code": "TZ-01",
+    "long": {
+      "default": "Аруша"
+    }
+  },
+  {
+    "code": "TZ-26",
+    "long": {
+      "default": "Маньяра"
+    }
+  },
+  {
+    "code": "TZ-21",
+    "long": {
+      "default": "Руква"
+    }
+  },
+  {
+    "code": "TZ-17",
+    "long": {
+      "default": "Мтвара"
+    }
+  },
+  {
+    "code": "TZ-30",
+    "long": {
+      "default": "Симию"
+    }
+  },
+  {
+    "code": "TZ-27",
+    "long": {
+      "default": "Геита"
+    }
+  },
+  {
+    "code": "TZ-28",
+    "long": {
+      "default": "Катави"
+    }
+  },
+  {
+    "code": "TZ-29",
+    "long": {
+      "default": "Нджомбе"
+    }
+  },
+  {
+    "code": "TJ-KT",
+    "long": {
+      "default": "Хатлонская область"
+    }
+  },
+  {
+    "code": "TW-KIN",
+    "long": {
+      "default": "Цзиньмэнь"
+    }
+  },
+  {
+    "code": "SY-DI",
+    "long": {
+      "default": "Дамаск"
+    }
+  },
+  {
+    "code": "CH-ZH",
+    "long": {
+      "default": "Цюрих"
+    }
+  },
+  {
+    "code": "CH-ZG",
+    "long": {
+      "default": "Цуг"
+    }
+  },
+  {
+    "code": "CH-VD",
+    "long": {
+      "default": "Во"
+    }
+  },
+  {
+    "code": "CH-VS",
+    "long": {
+      "default": "Вале"
+    }
+  },
+  {
+    "code": "CH-UR",
+    "long": {
+      "default": "Ури"
+    }
+  },
+  {
+    "code": "CH-TG",
+    "long": {
+      "default": "Тургау"
+    }
+  },
+  {
+    "code": "CH-SO",
+    "long": {
+      "default": "Золотурн"
+    }
+  },
+  {
+    "code": "CH-SZ",
+    "long": {
+      "default": "Швиц"
+    }
+  },
+  {
+    "code": "CH-SH",
+    "long": {
+      "default": "Шаффхаузен"
+    }
+  },
+  {
+    "code": "CH-SG",
+    "long": {
+      "default": "Санкт-Галлен"
+    }
+  },
+  {
+    "code": "CH-OW",
+    "long": {
+      "default": "Обвальден"
+    }
+  },
+  {
+    "code": "CH-NW",
+    "long": {
+      "default": "Нидвальден"
+    }
+  },
+  {
+    "code": "CH-LU",
+    "long": {
+      "default": "Люцерн"
+    }
+  },
+  {
+    "code": "CH-GR",
+    "long": {
+      "default": "Граубюнден"
+    }
+  },
+  {
+    "code": "CH-GL",
+    "long": {
+      "default": "Гларус"
+    }
+  },
+  {
+    "code": "CH-FR",
+    "long": {
+      "default": "Фрибур"
+    }
+  },
+  {
+    "code": "CH-BE",
+    "long": {
+      "default": "Берн"
+    }
+  },
+  {
+    "code": "CH-BS",
+    "long": {
+      "default": "Базель-Штадт"
+    }
+  },
+  {
+    "code": "CH-BL",
+    "long": {
+      "default": "Базель-Ланд"
+    }
+  },
+  {
+    "code": "CH-AR",
+    "long": {
+      "default": "Аппенцелль-Ауссерроден"
+    }
+  },
+  {
+    "code": "CH-AI",
+    "long": {
+      "default": "Аппенцелль-Иннерроден"
+    }
+  },
+  {
+    "code": "CH-AG",
+    "long": {
+      "default": "Аргау"
+    }
+  },
+  {
+    "code": "SE-U",
+    "long": {
+      "default": "Вестманланд"
+    }
+  },
+  {
+    "code": "SE-Y",
+    "long": {
+      "default": "Вестерноррланд"
+    }
+  },
+  {
+    "code": "SE-AC",
+    "long": {
+      "default": "Вестерботтен"
+    }
+  },
+  {
+    "code": "SE-S",
+    "long": {
+      "default": "Вермланд"
+    }
+  },
+  {
+    "code": "SE-C",
+    "long": {
+      "default": "Уппсала"
+    }
+  },
+  {
+    "code": "SE-AB",
+    "long": {
+      "default": "Стокгольм"
+    }
+  },
+  {
+    "code": "SE-D",
+    "long": {
+      "default": "Сёдерманланд"
+    }
+  },
+  {
+    "code": "SE-E",
+    "long": {
+      "default": "Эстергётланд"
+    }
+  },
+  {
+    "code": "SE-G",
+    "long": {
+      "default": "Крунуберг"
+    }
+  },
+  {
+    "code": "SE-H",
+    "long": {
+      "default": "Кальмар"
+    }
+  },
+  {
+    "code": "SE-F",
+    "long": {
+      "default": "Йёнчёпинг"
+    }
+  },
+  {
+    "code": "SE-Z",
+    "long": {
+      "default": "Емтланд"
+    }
+  },
+  {
+    "code": "SE-I",
+    "long": {
+      "default": "Готланд"
+    }
+  },
+  {
+    "code": "SE-M",
+    "long": {
+      "default": "Сконе"
+    }
+  },
+  {
+    "code": "SZ-SH",
+    "long": {
+      "default": "Шиселвени"
+    }
+  },
+  {
+    "code": "SZ-MA",
+    "long": {
+      "default": "Манзини"
+    }
+  },
+  {
+    "code": "SZ-LU",
+    "long": {
+      "default": "Лубомбо"
+    }
+  },
+  {
+    "code": "SZ-HH",
+    "long": {
+      "default": "Хохо"
+    }
+  },
+  {
+    "code": "SR-WA",
+    "long": {
+      "default": "Ваника"
+    }
+  },
+  {
+    "code": "SR-SI",
+    "long": {
+      "default": "Сипаливини"
+    }
+  },
+  {
+    "code": "SR-SA",
+    "long": {
+      "default": "Сарамакка"
+    }
+  },
+  {
+    "code": "SR-PM",
+    "long": {
+      "default": "Парамарибо"
+    }
+  },
+  {
+    "code": "SR-PR",
+    "long": {
+      "default": "Пара"
+    }
+  },
+  {
+    "code": "SR-NI",
+    "long": {
+      "default": "Никкери"
+    }
+  },
+  {
+    "code": "SR-MA",
+    "long": {
+      "default": "Маровейне"
+    }
+  },
+  {
+    "code": "SR-CR",
+    "long": {
+      "default": "Корони"
+    }
+  },
+  {
+    "code": "SR-CM",
+    "long": {
+      "default": "Коммевейне"
+    }
+  },
+  {
+    "code": "SR-BR",
+    "long": {
+      "default": "Брокопондо"
+    }
+  },
+  {
+    "code": "SD-NO",
+    "long": {
+      "default": "Северная провинция"
+    }
+  },
+  {
+    "code": "SD-KH",
+    "long": {
+      "default": "Хартум"
+    }
+  },
+  {
+    "code": "SD-RS",
+    "long": {
+      "default": "Красное море"
+    }
+  },
+  {
+    "code": "SD-GZ",
+    "long": {
+      "default": "Эль-Гезира"
+    }
+  },
+  {
+    "code": "SD-GD",
+    "long": {
+      "default": "Гедареф"
+    }
+  },
+  {
+    "code": "SD-NW",
+    "long": {
+      "default": "Белый Нил"
+    }
+  },
+  {
+    "code": "SD-NB",
+    "long": {
+      "default": "Голубой Нил"
+    }
+  },
+  {
+    "code": "SD-DW",
+    "long": {
+      "default": "Западный Дарфур"
+    }
+  },
+  {
+    "code": "SD-GK",
+    "long": {
+      "default": "Западный Кордофан"
+    }
+  },
+  {
+    "code": "SD-DS",
+    "long": {
+      "default": "Южный Дарфур"
+    }
+  },
+  {
+    "code": "SD-KS",
+    "long": {
+      "default": "Южный Кордофан"
+    }
+  },
+  {
+    "code": "SD-KA",
+    "long": {
+      "default": "Кассала"
+    }
+  },
+  {
+    "code": "SD-NR",
+    "long": {
+      "default": "Нил"
+    }
+  },
+  {
+    "code": "SD-DN",
+    "long": {
+      "default": "Северный Дарфур"
+    }
+  },
+  {
+    "code": "SD-KN",
+    "long": {
+      "default": "Северный Кордофан"
+    }
+  },
+  {
+    "code": "SD-SI",
+    "long": {
+      "default": "Сеннар"
+    }
+  },
+  {
+    "code": "SD-DE",
+    "long": {
+      "default": "Восточный Дарфур"
+    }
+  },
+  {
+    "code": "SD-DC",
+    "long": {
+      "default": "Центральный Дарфур"
+    }
+  },
+  {
+    "code": "LK-1",
+    "long": {
+      "default": "Западная провинция"
+    }
+  },
+  {
+    "code": "LK-8",
+    "long": {
+      "default": "Ува"
+    }
+  },
+  {
+    "code": "LK-3",
+    "long": {
+      "default": "Южная провинция"
+    }
+  },
+  {
+    "code": "LK-9",
+    "long": {
+      "default": "Сабарагамува"
+    }
+  },
+  {
+    "code": "LK-7",
+    "long": {
+      "default": "Северо-центральная провинция"
+    }
+  },
+  {
+    "code": "LK-5",
+    "long": {
+      "default": "Восточная провинция"
+    }
+  },
+  {
+    "code": "SS-NU",
+    "long": {
+      "default": "Верхний Нил"
+    }
+  },
+  {
+    "code": "SS-LK",
+    "long": {
+      "default": "Озёрный"
+    }
+  },
+  {
+    "code": "SS-UY",
+    "long": {
+      "default": "Эль-Вахда"
+    }
+  },
+  {
+    "code": "SS-EC",
+    "long": {
+      "default": "Центральная Экватория"
+    }
+  },
+  {
+    "code": "SS-EW",
+    "long": {
+      "default": "Западная Экватория"
+    }
+  },
+  {
+    "code": "SS-BW",
+    "long": {
+      "default": "Западный Бахр-эль-Газаль"
+    }
+  },
+  {
+    "code": "SS-JG",
+    "long": {
+      "default": "Джонглий"
+    }
+  },
+  {
+    "code": "SS-BN",
+    "long": {
+      "default": "Северный Бахр-эль-Газаль"
+    }
+  },
+  {
+    "code": "SS-EE",
+    "long": {
+      "default": "Восточная Экватория"
+    }
+  },
+  {
+    "code": "SS-WR",
+    "long": {
+      "default": "Вараб"
+    }
+  },
+  {
+    "code": "ZA-FS",
+    "long": {
+      "default": "Фри-Стейт"
+    }
+  },
+  {
+    "code": "ZA-NL",
+    "long": {
+      "default": "Квазулу-Натал"
+    }
+  },
+  {
+    "code": "ZA-NC",
+    "long": {
+      "default": "Северо-Капская провинция"
+    }
+  },
+  {
+    "code": "ZA-NW",
+    "long": {
+      "default": "Северо-Западная провинция"
+    }
+  },
+  {
+    "code": "ZA-WC",
+    "long": {
+      "default": "Западно-Капская провинция"
+    }
+  },
+  {
+    "code": "SO-WO",
+    "long": {
+      "default": "Вокуй-Гальбид"
+    }
+  },
+  {
+    "code": "SO-TO",
+    "long": {
+      "default": "Тогдер"
+    }
+  },
+  {
+    "code": "SO-SH",
+    "long": {
+      "default": "Нижняя Шабелле"
+    }
+  },
+  {
+    "code": "SO-SD",
+    "long": {
+      "default": "Средняя Шабелле"
+    }
+  },
+  {
+    "code": "SO-SA",
+    "long": {
+      "default": "Санааг"
+    }
+  },
+  {
+    "code": "SO-NU",
+    "long": {
+      "default": "Нугал"
+    }
+  },
+  {
+    "code": "SO-MU",
+    "long": {
+      "default": "Мудуг"
+    }
+  },
+  {
+    "code": "SO-JH",
+    "long": {
+      "default": "Нижняя Джубба"
+    }
+  },
+  {
+    "code": "SO-JD",
+    "long": {
+      "default": "Средняя Джубба"
+    }
+  },
+  {
+    "code": "SO-HI",
+    "long": {
+      "default": "Хиран"
+    }
+  },
+  {
+    "code": "SO-GE",
+    "long": {
+      "default": "Гедо"
+    }
+  },
+  {
+    "code": "SO-GA",
+    "long": {
+      "default": "Галгудуд"
+    }
+  },
+  {
+    "code": "SO-BY",
+    "long": {
+      "default": "Бей"
+    }
+  },
+  {
+    "code": "SO-BR",
+    "long": {
+      "default": "Бари"
+    }
+  },
+  {
+    "code": "SO-BN",
+    "long": {
+      "default": "Бенадир"
+    }
+  },
+  {
+    "code": "SO-BK",
+    "long": {
+      "default": "Бакул"
+    }
+  },
+  {
+    "code": "SO-AW",
+    "long": {
+      "default": "Авдал"
+    }
+  },
+  {
+    "code": "SO-SO",
+    "long": {
+      "default": "Сул"
+    }
+  },
+  {
     "code": "SB-WE",
     "long": {
       "default": "Западная провинция"
