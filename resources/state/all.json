@@ -1,5 +1,461 @@
 [
   {
+    "code": "UM-84",
+    "long": {
+      "default": "Хауленд"
+    }
+  },
+  {
+    "code": "UM-86",
+    "long": {
+      "default": "Джарвис"
+    }
+  },
+  {
+    "code": "UM-67",
+    "long": {
+      "default": "Джонстон"
+    }
+  },
+  {
+    "code": "UM-89",
+    "long": {
+      "default": "Риф Кингмен"
+    }
+  },
+  {
+    "code": "UM-71",
+    "long": {
+      "default": "Мидуэй"
+    }
+  },
+  {
+    "code": "UM-95",
+    "long": {
+      "default": "Пальмира"
+    }
+  },
+  {
+    "code": "UG-C",
+    "long": {
+      "default": "Центральная область"
+    }
+  },
+  {
+    "code": "UG-E",
+    "long": {
+      "default": "Восточная область"
+    }
+  },
+  {
+    "code": "UG-N",
+    "long": {
+      "default": "Северная область"
+    }
+  },
+  {
+    "code": "UG-W",
+    "long": {
+      "default": "Западная область"
+    }
+  },
+  {
+    "code": "TV-NUI",
+    "long": {
+      "default": "Нуи"
+    }
+  },
+  {
+    "code": "TV-NMA",
+    "long": {
+      "default": "Нанумеа"
+    }
+  },
+  {
+    "code": "TV-FUN",
+    "long": {
+      "default": "Фунафути"
+    }
+  },
+  {
+    "code": "TV-NIT",
+    "long": {
+      "default": "Ниутао"
+    }
+  },
+  {
+    "code": "TV-NMG",
+    "long": {
+      "default": "Нануманга"
+    }
+  },
+  {
+    "code": "TV-VAI",
+    "long": {
+      "default": "Ваитупу"
+    }
+  },
+  {
+    "code": "TV-NKF",
+    "long": {
+      "default": "Нукуфетау"
+    }
+  },
+  {
+    "code": "TV-NKL",
+    "long": {
+      "default": "Нукулаэлаэ"
+    }
+  },
+  {
+    "code": "TM-D",
+    "long": {
+      "default": "Дашогузский велаят"
+    }
+  },
+  {
+    "code": "TR-63",
+    "long": {
+      "default": "Шанлыурфа"
+    }
+  },
+  {
+    "code": "TR-51",
+    "long": {
+      "default": "Нигде"
+    }
+  },
+  {
+    "code": "TR-50",
+    "long": {
+      "default": "Невшехир"
+    }
+  },
+  {
+    "code": "TR-35",
+    "long": {
+      "default": "Измир"
+    }
+  },
+  {
+    "code": "TR-30",
+    "long": {
+      "default": "Хаккяри"
+    }
+  },
+  {
+    "code": "TR-23",
+    "long": {
+      "default": "Элязыг"
+    }
+  },
+  {
+    "code": "TR-21",
+    "long": {
+      "default": "Диярбакыр"
+    }
+  },
+  {
+    "code": "TR-06",
+    "long": {
+      "default": "Анкара"
+    }
+  },
+  {
+    "code": "TR-04",
+    "long": {
+      "default": "Агры"
+    }
+  },
+  {
+    "code": "TR-03",
+    "long": {
+      "default": "Афьонкарахисар"
+    }
+  },
+  {
+    "code": "TR-02",
+    "long": {
+      "default": "Адыяман"
+    }
+  },
+  {
+    "code": "TR-67",
+    "long": {
+      "default": "Зонгулдак"
+    }
+  },
+  {
+    "code": "TR-60",
+    "long": {
+      "default": "Токат"
+    }
+  },
+  {
+    "code": "TR-53",
+    "long": {
+      "default": "Ризе"
+    }
+  },
+  {
+    "code": "TR-36",
+    "long": {
+      "default": "Карс"
+    }
+  },
+  {
+    "code": "TR-29",
+    "long": {
+      "default": "Гюмюшхане"
+    }
+  },
+  {
+    "code": "TR-16",
+    "long": {
+      "default": "Бурса"
+    }
+  },
+  {
+    "code": "TR-78",
+    "long": {
+      "default": "Карабюк"
+    }
+  },
+  {
+    "code": "TR-69",
+    "long": {
+      "default": "Байбурт"
+    }
+  },
+  {
+    "code": "TR-81",
+    "long": {
+      "default": "Дюздже"
+    }
+  },
+  {
+    "code": "TN-22",
+    "long": {
+      "default": "Загван"
+    }
+  },
+  {
+    "code": "TN-11",
+    "long": {
+      "default": "Тунис"
+    }
+  },
+  {
+    "code": "TN-72",
+    "long": {
+      "default": "Таузар"
+    }
+  },
+  {
+    "code": "TN-51",
+    "long": {
+      "default": "Сус"
+    }
+  },
+  {
+    "code": "TN-34",
+    "long": {
+      "default": "Сильяна"
+    }
+  },
+  {
+    "code": "TN-43",
+    "long": {
+      "default": "Сиди-Бу-Зид"
+    }
+  },
+  {
+    "code": "TN-61",
+    "long": {
+      "default": "Сфакс"
+    }
+  },
+  {
+    "code": "TN-73",
+    "long": {
+      "default": "Кебили"
+    }
+  },
+  {
+    "code": "TN-71",
+    "long": {
+      "default": "Гафса"
+    }
+  },
+  {
+    "code": "TN-81",
+    "long": {
+      "default": "Габес"
+    }
+  },
+  {
+    "code": "TN-21",
+    "long": {
+      "default": "Набуль"
+    }
+  },
+  {
+    "code": "TN-82",
+    "long": {
+      "default": "Меденин"
+    }
+  },
+  {
+    "code": "TN-32",
+    "long": {
+      "default": "Джендуба"
+    }
+  },
+  {
+    "code": "TN-13",
+    "long": {
+      "default": "Бен-Арус"
+    }
+  },
+  {
+    "code": "TN-23",
+    "long": {
+      "default": "Бизерта"
+    }
+  },
+  {
+    "code": "TN-31",
+    "long": {
+      "default": "Беджа"
+    }
+  },
+  {
+    "code": "TN-12",
+    "long": {
+      "default": "Арьяна"
+    }
+  },
+  {
+    "code": "TN-41",
+    "long": {
+      "default": "Кайруан"
+    }
+  },
+  {
+    "code": "TN-42",
+    "long": {
+      "default": "Касерин"
+    }
+  },
+  {
+    "code": "TN-52",
+    "long": {
+      "default": "Монастир"
+    }
+  },
+  {
+    "code": "TN-53",
+    "long": {
+      "default": "Махдия"
+    }
+  },
+  {
+    "code": "TN-33",
+    "long": {
+      "default": "Эль-Кеф"
+    }
+  },
+  {
+    "code": "TT-TOB",
+    "long": {
+      "default": "Тобаго"
+    }
+  },
+  {
+    "code": "TT-SFO",
+    "long": {
+      "default": "Сан-Фернандо"
+    }
+  },
+  {
+    "code": "TT-POS",
+    "long": {
+      "default": "Порт-оф-Спейн"
+    }
+  },
+  {
+    "code": "TT-MRC",
+    "long": {
+      "default": "Маяро-Рио Кларо"
+    }
+  },
+  {
+    "code": "TT-ARI",
+    "long": {
+      "default": "Арима"
+    }
+  },
+  {
+    "code": "TT-CHA",
+    "long": {
+      "default": "Чагуанас"
+    }
+  },
+  {
+    "code": "TT-CTT",
+    "long": {
+      "default": "Кува-Табаките-Тальпаро"
+    }
+  },
+  {
+    "code": "TT-DMN",
+    "long": {
+      "default": "Диего Мартин"
+    }
+  },
+  {
+    "code": "TT-PED",
+    "long": {
+      "default": "Пенал-Дебе"
+    }
+  },
+  {
+    "code": "TT-PRT",
+    "long": {
+      "default": "Принсес Таун"
+    }
+  },
+  {
+    "code": "TT-PTF",
+    "long": {
+      "default": "Пойнт-Фортин"
+    }
+  },
+  {
+    "code": "TT-SGE",
+    "long": {
+      "default": "Сангре-Гранде"
+    }
+  },
+  {
+    "code": "TT-SIP",
+    "long": {
+      "default": "Сипария"
+    }
+  },
+  {
+    "code": "TT-SJL",
+    "long": {
+      "default": "Сан Хуан-Лавентиль"
+    }
+  },
+  {
+    "code": "TT-TUP",
+    "long": {
+      "default": "Тунапуна-Пиарко"
+    }
+  },
+  {
     "code": "TO-05",
     "long": {
       "default": "Вавау"
