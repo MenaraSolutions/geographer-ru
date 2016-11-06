@@ -1,5 +1,3719 @@
 [
   {
+    "code": "SB-WE",
+    "long": {
+      "default": "Западная провинция"
+    }
+  },
+  {
+    "code": "SB-ML",
+    "long": {
+      "default": "Малаита"
+    }
+  },
+  {
+    "code": "SB-IS",
+    "long": {
+      "default": "Изабель"
+    }
+  },
+  {
+    "code": "SB-GU",
+    "long": {
+      "default": "Гуадалканал"
+    }
+  },
+  {
+    "code": "SB-CE",
+    "long": {
+      "default": "Центральная провинция"
+    }
+  },
+  {
+    "code": "SB-TE",
+    "long": {
+      "default": "Темоту"
+    }
+  },
+  {
+    "code": "SB-MK",
+    "long": {
+      "default": "Макира-Улава"
+    }
+  },
+  {
+    "code": "SB-CH",
+    "long": {
+      "default": "Шуазель"
+    }
+  },
+  {
+    "code": "SB-RB",
+    "long": {
+      "default": "Реннелл и Беллона"
+    }
+  },
+  {
+    "code": "SB-CT",
+    "long": {
+      "default": "Столичная территория"
+    }
+  },
+  {
+    "code": "SI-190",
+    "long": {
+      "default": "Жалец"
+    }
+  },
+  {
+    "code": "SI-142",
+    "long": {
+      "default": "Загорье у Сави"
+    }
+  },
+  {
+    "code": "SI-140",
+    "long": {
+      "default": "Врхника"
+    }
+  },
+  {
+    "code": "SI-131",
+    "long": {
+      "default": "Тржич"
+    }
+  },
+  {
+    "code": "SI-130",
+    "long": {
+      "default": "Требнье"
+    }
+  },
+  {
+    "code": "SI-129",
+    "long": {
+      "default": "Трбовле"
+    }
+  },
+  {
+    "code": "SI-128",
+    "long": {
+      "default": "Толмин"
+    }
+  },
+  {
+    "code": "SI-133",
+    "long": {
+      "default": "Веленье"
+    }
+  },
+  {
+    "code": "SI-124",
+    "long": {
+      "default": "Шамарье при Ельшах"
+    }
+  },
+  {
+    "code": "SI-112",
+    "long": {
+      "default": "Словень Градец"
+    }
+  },
+  {
+    "code": "SI-122",
+    "long": {
+      "default": "Шкофья Лока"
+    }
+  },
+  {
+    "code": "SI-111",
+    "long": {
+      "default": "Сежана"
+    }
+  },
+  {
+    "code": "SI-110",
+    "long": {
+      "default": "Севница"
+    }
+  },
+  {
+    "code": "SI-120",
+    "long": {
+      "default": "Шентюр"
+    }
+  },
+  {
+    "code": "SI-104",
+    "long": {
+      "default": "Рибница"
+    }
+  },
+  {
+    "code": "SI-090",
+    "long": {
+      "default": "Пиран"
+    }
+  },
+  {
+    "code": "SI-087",
+    "long": {
+      "default": "Ормож"
+    }
+  },
+  {
+    "code": "SI-085",
+    "long": {
+      "default": "Ново Место"
+    }
+  },
+  {
+    "code": "SI-084",
+    "long": {
+      "default": "Нова-Горица"
+    }
+  },
+  {
+    "code": "SI-080",
+    "long": {
+      "default": "Мурска Собота"
+    }
+  },
+  {
+    "code": "SI-079",
+    "long": {
+      "default": "Мозырье"
+    }
+  },
+  {
+    "code": "SI-073",
+    "long": {
+      "default": "Метелика"
+    }
+  },
+  {
+    "code": "SI-063",
+    "long": {
+      "default": "Лютомер"
+    }
+  },
+  {
+    "code": "SI-060",
+    "long": {
+      "default": "Лития"
+    }
+  },
+  {
+    "code": "SI-058",
+    "long": {
+      "default": "Лентар"
+    }
+  },
+  {
+    "code": "SI-212",
+    "long": {
+      "default": "Мирна"
+    }
+  },
+  {
+    "code": "SI-057",
+    "long": {
+      "default": "Лашко"
+    }
+  },
+  {
+    "code": "SI-054",
+    "long": {
+      "default": "Кршко"
+    }
+  },
+  {
+    "code": "SI-052",
+    "long": {
+      "default": "Крань"
+    }
+  },
+  {
+    "code": "SI-048",
+    "long": {
+      "default": "Кочевье"
+    }
+  },
+  {
+    "code": "SI-043",
+    "long": {
+      "default": "Камник"
+    }
+  },
+  {
+    "code": "SI-041",
+    "long": {
+      "default": "Есенице"
+    }
+  },
+  {
+    "code": "SI-032",
+    "long": {
+      "default": "Гросуплье"
+    }
+  },
+  {
+    "code": "SI-029",
+    "long": {
+      "default": "Горнья Радгона"
+    }
+  },
+  {
+    "code": "SI-025",
+    "long": {
+      "default": "Дравоград"
+    }
+  },
+  {
+    "code": "SI-023",
+    "long": {
+      "default": "Домжале"
+    }
+  },
+  {
+    "code": "SI-017",
+    "long": {
+      "default": "Чрномель"
+    }
+  },
+  {
+    "code": "SI-013",
+    "long": {
+      "default": "Церкница"
+    }
+  },
+  {
+    "code": "SI-011",
+    "long": {
+      "default": "Целье"
+    }
+  },
+  {
+    "code": "SI-009",
+    "long": {
+      "default": "Брежице"
+    }
+  },
+  {
+    "code": "SI-001",
+    "long": {
+      "default": "Айдовшчина"
+    }
+  },
+  {
+    "code": "SI-035",
+    "long": {
+      "default": "Хрпелье-Козина"
+    }
+  },
+  {
+    "code": "SI-019",
+    "long": {
+      "default": "Дивача"
+    }
+  },
+  {
+    "code": "SI-091",
+    "long": {
+      "default": "Пивка"
+    }
+  },
+  {
+    "code": "SI-065",
+    "long": {
+      "default": "Лошка Долина"
+    }
+  },
+  {
+    "code": "SI-066",
+    "long": {
+      "default": "Лошкий Поток"
+    }
+  },
+  {
+    "code": "SI-088",
+    "long": {
+      "default": "Осилница"
+    }
+  },
+  {
+    "code": "SI-134",
+    "long": {
+      "default": "Велике Лашче"
+    }
+  },
+  {
+    "code": "SI-123",
+    "long": {
+      "default": "Шкофльица"
+    }
+  },
+  {
+    "code": "SI-037",
+    "long": {
+      "default": "Иг"
+    }
+  },
+  {
+    "code": "SI-008",
+    "long": {
+      "default": "Брезовица"
+    }
+  },
+  {
+    "code": "SI-005",
+    "long": {
+      "default": "Боровница"
+    }
+  },
+  {
+    "code": "SI-136",
+    "long": {
+      "default": "Випава"
+    }
+  },
+  {
+    "code": "SI-049",
+    "long": {
+      "default": "Комен"
+    }
+  },
+  {
+    "code": "SI-075",
+    "long": {
+      "default": "Мирен-Костаньевица"
+    }
+  },
+  {
+    "code": "SI-007",
+    "long": {
+      "default": "Брда"
+    }
+  },
+  {
+    "code": "SI-044",
+    "long": {
+      "default": "Канал"
+    }
+  },
+  {
+    "code": "SI-147",
+    "long": {
+      "default": "Жири"
+    }
+  },
+  {
+    "code": "SI-014",
+    "long": {
+      "default": "Церкно"
+    }
+  },
+  {
+    "code": "SI-146",
+    "long": {
+      "default": "Железники"
+    }
+  },
+  {
+    "code": "SI-027",
+    "long": {
+      "default": "Горенья Вас-Поляне"
+    }
+  },
+  {
+    "code": "SI-021",
+    "long": {
+      "default": "Доброва-Полхов Градец"
+    }
+  },
+  {
+    "code": "SI-046",
+    "long": {
+      "default": "Кобарид"
+    }
+  },
+  {
+    "code": "SI-006",
+    "long": {
+      "default": "Бовец"
+    }
+  },
+  {
+    "code": "SI-004",
+    "long": {
+      "default": "Бохинь"
+    }
+  },
+  {
+    "code": "SI-003",
+    "long": {
+      "default": "Блед"
+    }
+  },
+  {
+    "code": "SI-082",
+    "long": {
+      "default": "Накло"
+    }
+  },
+  {
+    "code": "SI-053",
+    "long": {
+      "default": "Краньска-Гора"
+    }
+  },
+  {
+    "code": "SI-095",
+    "long": {
+      "default": "Преддвор"
+    }
+  },
+  {
+    "code": "SI-012",
+    "long": {
+      "default": "Церклье на Гореньскем"
+    }
+  },
+  {
+    "code": "SI-117",
+    "long": {
+      "default": "Шенцур"
+    }
+  },
+  {
+    "code": "SI-138",
+    "long": {
+      "default": "Водице"
+    }
+  },
+  {
+    "code": "SI-071",
+    "long": {
+      "default": "Медводе"
+    }
+  },
+  {
+    "code": "SI-072",
+    "long": {
+      "default": "Менгеш"
+    }
+  },
+  {
+    "code": "SI-022",
+    "long": {
+      "default": "Дол при Любляни"
+    }
+  },
+  {
+    "code": "SI-077",
+    "long": {
+      "default": "Моравце"
+    }
+  },
+  {
+    "code": "SI-030",
+    "long": {
+      "default": "Горньи Град"
+    }
+  },
+  {
+    "code": "SI-067",
+    "long": {
+      "default": "Луче"
+    }
+  },
+  {
+    "code": "SI-103",
+    "long": {
+      "default": "Равне на Корошкем"
+    }
+  },
+  {
+    "code": "SI-074",
+    "long": {
+      "default": "Межица"
+    }
+  },
+  {
+    "code": "SI-081",
+    "long": {
+      "default": "Мута"
+    }
+  },
+  {
+    "code": "SI-141",
+    "long": {
+      "default": "Визеница"
+    }
+  },
+  {
+    "code": "SI-016",
+    "long": {
+      "default": "Чрна на Корошкем"
+    }
+  },
+  {
+    "code": "SI-062",
+    "long": {
+      "default": "Любно"
+    }
+  },
+  {
+    "code": "SI-126",
+    "long": {
+      "default": "Шоштаньи"
+    }
+  },
+  {
+    "code": "SI-125",
+    "long": {
+      "default": "Шмартно у Паки"
+    }
+  },
+  {
+    "code": "SI-068",
+    "long": {
+      "default": "Луковица"
+    }
+  },
+  {
+    "code": "SI-099",
+    "long": {
+      "default": "Радече"
+    }
+  },
+  {
+    "code": "SI-039",
+    "long": {
+      "default": "Иванчна Горица"
+    }
+  },
+  {
+    "code": "SI-020",
+    "long": {
+      "default": "Добреполье"
+    }
+  },
+  {
+    "code": "SI-109",
+    "long": {
+      "default": "Семич"
+    }
+  },
+  {
+    "code": "SI-119",
+    "long": {
+      "default": "Шентьеренье"
+    }
+  },
+  {
+    "code": "SI-121",
+    "long": {
+      "default": "Шкоцьян"
+    }
+  },
+  {
+    "code": "SI-127",
+    "long": {
+      "default": "Шторе"
+    }
+  },
+  {
+    "code": "SI-139",
+    "long": {
+      "default": "Войник"
+    }
+  },
+  {
+    "code": "SI-137",
+    "long": {
+      "default": "Витанье"
+    }
+  },
+  {
+    "code": "SI-144",
+    "long": {
+      "default": "Зрече"
+    }
+  },
+  {
+    "code": "SI-108",
+    "long": {
+      "default": "Руше"
+    }
+  },
+  {
+    "code": "SI-055",
+    "long": {
+      "default": "Кунгота"
+    }
+  },
+  {
+    "code": "SI-118",
+    "long": {
+      "default": "Шентиль"
+    }
+  },
+  {
+    "code": "SI-089",
+    "long": {
+      "default": "Песница"
+    }
+  },
+  {
+    "code": "SI-026",
+    "long": {
+      "default": "Дуплек"
+    }
+  },
+  {
+    "code": "SI-098",
+    "long": {
+      "default": "Раче-Фарм"
+    }
+  },
+  {
+    "code": "SI-115",
+    "long": {
+      "default": "Старше"
+    }
+  },
+  {
+    "code": "SI-045",
+    "long": {
+      "default": "Кидричево"
+    }
+  },
+  {
+    "code": "SI-069",
+    "long": {
+      "default": "Мяшперк"
+    }
+  },
+  {
+    "code": "SI-135",
+    "long": {
+      "default": "Видем"
+    }
+  },
+  {
+    "code": "SI-106",
+    "long": {
+      "default": "Рогашка Слатина"
+    }
+  },
+  {
+    "code": "SI-107",
+    "long": {
+      "default": "Рогатек"
+    }
+  },
+  {
+    "code": "SI-092",
+    "long": {
+      "default": "Подчетртек"
+    }
+  },
+  {
+    "code": "SI-051",
+    "long": {
+      "default": "Козье"
+    }
+  },
+  {
+    "code": "SI-028",
+    "long": {
+      "default": "Горишница"
+    }
+  },
+  {
+    "code": "SI-143",
+    "long": {
+      "default": "Заврич"
+    }
+  },
+  {
+    "code": "SI-024",
+    "long": {
+      "default": "Дровна"
+    }
+  },
+  {
+    "code": "SI-042",
+    "long": {
+      "default": "Юршинци"
+    }
+  },
+  {
+    "code": "SI-116",
+    "long": {
+      "default": "Свети Юрий"
+    }
+  },
+  {
+    "code": "SI-100",
+    "long": {
+      "default": "Раденци"
+    }
+  },
+  {
+    "code": "SI-097",
+    "long": {
+      "default": "Пуцоци"
+    }
+  },
+  {
+    "code": "SI-105",
+    "long": {
+      "default": "Рогашовци"
+    }
+  },
+  {
+    "code": "SI-056",
+    "long": {
+      "default": "Кузма"
+    }
+  },
+  {
+    "code": "SI-031",
+    "long": {
+      "default": "Горньи Петровици"
+    }
+  },
+  {
+    "code": "SI-078",
+    "long": {
+      "default": "Моравске Топлице"
+    }
+  },
+  {
+    "code": "SI-047",
+    "long": {
+      "default": "Кобилье"
+    }
+  },
+  {
+    "code": "SI-002",
+    "long": {
+      "default": "Белтиници"
+    }
+  },
+  {
+    "code": "SI-132",
+    "long": {
+      "default": "Турнишче"
+    }
+  },
+  {
+    "code": "SI-086",
+    "long": {
+      "default": "Одранци"
+    }
+  },
+  {
+    "code": "SI-015",
+    "long": {
+      "default": "Черншовици"
+    }
+  },
+  {
+    "code": "SI-083",
+    "long": {
+      "default": "Назарье"
+    }
+  },
+  {
+    "code": "SI-061",
+    "long": {
+      "default": "Любляна"
+    }
+  },
+  {
+    "code": "SI-192",
+    "long": {
+      "default": "Жировница"
+    }
+  },
+  {
+    "code": "SI-163",
+    "long": {
+      "default": "Езерско"
+    }
+  },
+  {
+    "code": "SI-180",
+    "long": {
+      "default": "Солчава"
+    }
+  },
+  {
+    "code": "SI-164",
+    "long": {
+      "default": "Коменда"
+    }
+  },
+  {
+    "code": "SI-162",
+    "long": {
+      "default": "Хорьюл"
+    }
+  },
+  {
+    "code": "SI-183",
+    "long": {
+      "default": "Шемпетер-Вртойба"
+    }
+  },
+  {
+    "code": "SI-150",
+    "long": {
+      "default": "Блоке"
+    }
+  },
+  {
+    "code": "SI-179",
+    "long": {
+      "default": "Содражица"
+    }
+  },
+  {
+    "code": "SI-186",
+    "long": {
+      "default": "Трзин"
+    }
+  },
+  {
+    "code": "SI-189",
+    "long": {
+      "default": "Варанско"
+    }
+  },
+  {
+    "code": "SI-184",
+    "long": {
+      "default": "Табор"
+    }
+  },
+  {
+    "code": "SI-151",
+    "long": {
+      "default": "Брасловче"
+    }
+  },
+  {
+    "code": "SI-173",
+    "long": {
+      "default": "Ползела"
+    }
+  },
+  {
+    "code": "SI-174",
+    "long": {
+      "default": "Преболд"
+    }
+  },
+  {
+    "code": "SI-165",
+    "long": {
+      "default": "Костел"
+    }
+  },
+  {
+    "code": "SI-193",
+    "long": {
+      "default": "Жижембрек"
+    }
+  },
+  {
+    "code": "SI-157",
+    "long": {
+      "default": "Доленьске Топлице"
+    }
+  },
+  {
+    "code": "SI-170",
+    "long": {
+      "default": "Мирна Печ"
+    }
+  },
+  {
+    "code": "SI-149",
+    "long": {
+      "default": "Быстрица у Сотли"
+    }
+  },
+  {
+    "code": "SI-154",
+    "long": {
+      "default": "Добье"
+    }
+  },
+  {
+    "code": "SI-155",
+    "long": {
+      "default": "Добрна"
+    }
+  },
+  {
+    "code": "SI-171",
+    "long": {
+      "default": "Оплотника"
+    }
+  },
+  {
+    "code": "SI-177",
+    "long": {
+      "default": "Рибница на Похорью"
+    }
+  },
+  {
+    "code": "SI-167",
+    "long": {
+      "default": "Ловренц на Похорью"
+    }
+  },
+  {
+    "code": "SI-178",
+    "long": {
+      "default": "Сельница у Драви"
+    }
+  },
+  {
+    "code": "SI-160",
+    "long": {
+      "default": "Хоче-Сливница"
+    }
+  },
+  {
+    "code": "SI-169",
+    "long": {
+      "default": "Миклавж на Дравскем Полю"
+    }
+  },
+  {
+    "code": "SI-159",
+    "long": {
+      "default": "Хядина"
+    }
+  },
+  {
+    "code": "SI-191",
+    "long": {
+      "default": "Жетале"
+    }
+  },
+  {
+    "code": "SI-172",
+    "long": {
+      "default": "Подлехник"
+    }
+  },
+  {
+    "code": "SI-168",
+    "long": {
+      "default": "Марковици"
+    }
+  },
+  {
+    "code": "SI-018",
+    "long": {
+      "default": "Дестрник"
+    }
+  },
+  {
+    "code": "SI-185",
+    "long": {
+      "default": "Трновска Вас"
+    }
+  },
+  {
+    "code": "SI-182",
+    "long": {
+      "default": "Свети Андраж в Словенсикх Горицах"
+    }
+  },
+  {
+    "code": "SI-153",
+    "long": {
+      "default": "Церквеняк"
+    }
+  },
+  {
+    "code": "SI-148",
+    "long": {
+      "default": "Бенедикт"
+    }
+  },
+  {
+    "code": "SI-181",
+    "long": {
+      "default": "Света Ана"
+    }
+  },
+  {
+    "code": "SI-166",
+    "long": {
+      "default": "Крижевци"
+    }
+  },
+  {
+    "code": "SI-188",
+    "long": {
+      "default": "Вержей"
+    }
+  },
+  {
+    "code": "SI-187",
+    "long": {
+      "default": "Велика Полана"
+    }
+  },
+  {
+    "code": "SI-156",
+    "long": {
+      "default": "Добровник"
+    }
+  },
+  {
+    "code": "SI-010",
+    "long": {
+      "default": "Тишина"
+    }
+  },
+  {
+    "code": "SI-152",
+    "long": {
+      "default": "Цанкова"
+    }
+  },
+  {
+    "code": "SI-158",
+    "long": {
+      "default": "Град"
+    }
+  },
+  {
+    "code": "SI-161",
+    "long": {
+      "default": "Ходос"
+    }
+  },
+  {
+    "code": "SI-176",
+    "long": {
+      "default": "Разкрижье"
+    }
+  },
+  {
+    "code": "SI-194",
+    "long": {
+      "default": "Шмартно при Литии"
+    }
+  },
+  {
+    "code": "SI-033",
+    "long": {
+      "default": "Шаловци"
+    }
+  },
+  {
+    "code": "SI-195",
+    "long": {
+      "default": "Апаче"
+    }
+  },
+  {
+    "code": "SI-196",
+    "long": {
+      "default": "Циркулане"
+    }
+  },
+  {
+    "code": "SI-197",
+    "long": {
+      "default": "Косаньевица на Крки"
+    }
+  },
+  {
+    "code": "SI-208",
+    "long": {
+      "default": "Лог-Драгомер"
+    }
+  },
+  {
+    "code": "SI-198",
+    "long": {
+      "default": "Маколе"
+    }
+  },
+  {
+    "code": "SI-199",
+    "long": {
+      "default": "Мокроног-Требелно"
+    }
+  },
+  {
+    "code": "SI-200",
+    "long": {
+      "default": "Польчане"
+    }
+  },
+  {
+    "code": "SI-209",
+    "long": {
+      "default": "Речица у Савиньи"
+    }
+  },
+  {
+    "code": "SI-201",
+    "long": {
+      "default": "Ренче-Вогрско"
+    }
+  },
+  {
+    "code": "SI-202",
+    "long": {
+      "default": "Средишче у Драви"
+    }
+  },
+  {
+    "code": "SI-203",
+    "long": {
+      "default": "Стража"
+    }
+  },
+  {
+    "code": "SI-204",
+    "long": {
+      "default": "Света Тройца в Словенских Горицах"
+    }
+  },
+  {
+    "code": "SI-205",
+    "long": {
+      "default": "Свети Томаж"
+    }
+  },
+  {
+    "code": "SI-211",
+    "long": {
+      "default": "Шентруперт"
+    }
+  },
+  {
+    "code": "SI-206",
+    "long": {
+      "default": "Шмарьешке Топлице"
+    }
+  },
+  {
+    "code": "SI-210",
+    "long": {
+      "default": "Свети Юрий в Словенских Горицах"
+    }
+  },
+  {
+    "code": "SI-207",
+    "long": {
+      "default": "Горье"
+    }
+  },
+  {
+    "code": "SK-KI",
+    "long": {
+      "default": "Кошицкий край"
+    }
+  },
+  {
+    "code": "SK-PV",
+    "long": {
+      "default": "Прешовский край"
+    }
+  },
+  {
+    "code": "SK-ZI",
+    "long": {
+      "default": "Жилинский край"
+    }
+  },
+  {
+    "code": "SK-BC",
+    "long": {
+      "default": "Банскобистрицкий край"
+    }
+  },
+  {
+    "code": "SK-BL",
+    "long": {
+      "default": "Братиславский край"
+    }
+  },
+  {
+    "code": "SK-NI",
+    "long": {
+      "default": "Нитранский край"
+    }
+  },
+  {
+    "code": "SK-TC",
+    "long": {
+      "default": "Тренчинский край"
+    }
+  },
+  {
+    "code": "SK-TA",
+    "long": {
+      "default": "Трнавский край"
+    }
+  },
+  {
+    "code": "SG-01",
+    "long": {
+      "default": "Центральный округ"
+    }
+  },
+  {
+    "code": "SG-02",
+    "long": {
+      "default": "Северо-восточный округ"
+    }
+  },
+  {
+    "code": "SG-04",
+    "long": {
+      "default": "Юго-Восточный округ"
+    }
+  },
+  {
+    "code": "SG-05",
+    "long": {
+      "default": "Юго-Западный округ"
+    }
+  },
+  {
+    "code": "SG-03",
+    "long": {
+      "default": "Северо-западный округ"
+    }
+  },
+  {
+    "code": "SL-W",
+    "long": {
+      "default": "Западная область"
+    }
+  },
+  {
+    "code": "SC-23",
+    "long": {
+      "default": "Такамака"
+    }
+  },
+  {
+    "code": "SC-22",
+    "long": {
+      "default": "Сен-Луи"
+    }
+  },
+  {
+    "code": "SC-21",
+    "long": {
+      "default": "Порт-Глод"
+    }
+  },
+  {
+    "code": "SC-20",
+    "long": {
+      "default": "Пуант-Ла-Рю"
+    }
+  },
+  {
+    "code": "SC-19",
+    "long": {
+      "default": "Плезанс"
+    }
+  },
+  {
+    "code": "SC-18",
+    "long": {
+      "default": "Мон Флёри"
+    }
+  },
+  {
+    "code": "SC-17",
+    "long": {
+      "default": "Мон-Бакстон"
+    }
+  },
+  {
+    "code": "SC-16",
+    "long": {
+      "default": "Ла-Ривьер-Англез"
+    }
+  },
+  {
+    "code": "SC-15",
+    "long": {
+      "default": "Ла-Диг"
+    }
+  },
+  {
+    "code": "SC-13",
+    "long": {
+      "default": "Гранд-Анс (Маэ)"
+    }
+  },
+  {
+    "code": "SC-14",
+    "long": {
+      "default": "Гранд-Анс-Праслен"
+    }
+  },
+  {
+    "code": "SC-12",
+    "long": {
+      "default": "Гласи"
+    }
+  },
+  {
+    "code": "SC-11",
+    "long": {
+      "default": "Каскад"
+    }
+  },
+  {
+    "code": "SC-10",
+    "long": {
+      "default": "Бель-Омбр"
+    }
+  },
+  {
+    "code": "SC-09",
+    "long": {
+      "default": "Бель-Эр"
+    }
+  },
+  {
+    "code": "SC-08",
+    "long": {
+      "default": "Бе-Валлон"
+    }
+  },
+  {
+    "code": "SC-07",
+    "long": {
+      "default": "Бе-Сент-Анн"
+    }
+  },
+  {
+    "code": "SC-06",
+    "long": {
+      "default": "Бе-Лазар"
+    }
+  },
+  {
+    "code": "SC-05",
+    "long": {
+      "default": "Анс-Руайаль"
+    }
+  },
+  {
+    "code": "SC-03",
+    "long": {
+      "default": "Анс-Этуаль"
+    }
+  },
+  {
+    "code": "SC-02",
+    "long": {
+      "default": "Анс-Буало"
+    }
+  },
+  {
+    "code": "SC-01",
+    "long": {
+      "default": "Анс-о-Пен"
+    }
+  },
+  {
+    "code": "SC-24",
+    "long": {
+      "default": "Ле-Мамель"
+    }
+  },
+  {
+    "code": "SC-25",
+    "long": {
+      "default": "Рош-Кайман"
+    }
+  },
+  {
+    "code": "SC-04",
+    "long": {
+      "default": "О-Кап"
+    }
+  },
+  {
+    "code": "RS-VO",
+    "long": {
+      "default": "Воеводина"
+    }
+  },
+  {
+    "code": "SN-TH",
+    "long": {
+      "default": "Тиес"
+    }
+  },
+  {
+    "code": "SN-FK",
+    "long": {
+      "default": "Фатик"
+    }
+  },
+  {
+    "code": "SN-KA",
+    "long": {
+      "default": "Кафрин"
+    }
+  },
+  {
+    "code": "SN-KE",
+    "long": {
+      "default": "Кедугу"
+    }
+  },
+  {
+    "code": "SN-SE",
+    "long": {
+      "default": "Седиу"
+    }
+  },
+  {
+    "code": "SA-07",
+    "long": {
+      "default": "Табук"
+    }
+  },
+  {
+    "code": "SA-10",
+    "long": {
+      "default": "Наджран"
+    }
+  },
+  {
+    "code": "SA-02",
+    "long": {
+      "default": "Мекка"
+    }
+  },
+  {
+    "code": "SA-09",
+    "long": {
+      "default": "Джизан"
+    }
+  },
+  {
+    "code": "SA-06",
+    "long": {
+      "default": "Хаиль"
+    }
+  },
+  {
+    "code": "SA-14",
+    "long": {
+      "default": "Асир"
+    }
+  },
+  {
+    "code": "SA-04",
+    "long": {
+      "default": "Восточная провинция"
+    }
+  },
+  {
+    "code": "SA-01",
+    "long": {
+      "default": "Эр-Рияд"
+    }
+  },
+  {
+    "code": "SA-05",
+    "long": {
+      "default": "Эль-Касим"
+    }
+  },
+  {
+    "code": "SA-03",
+    "long": {
+      "default": "Эль-Мадина"
+    }
+  },
+  {
+    "code": "SA-12",
+    "long": {
+      "default": "Эль-Джауф"
+    }
+  },
+  {
+    "code": "SA-08",
+    "long": {
+      "default": "Эль-Худуд эш-Шамалийя"
+    }
+  },
+  {
+    "code": "SA-11",
+    "long": {
+      "default": "Эль-Баха"
+    }
+  },
+  {
+    "code": "SM-09",
+    "long": {
+      "default": "Серравалле"
+    }
+  },
+  {
+    "code": "SM-07",
+    "long": {
+      "default": "Сан-Марино"
+    }
+  },
+  {
+    "code": "SM-01",
+    "long": {
+      "default": "Аккуавива"
+    }
+  },
+  {
+    "code": "SM-06",
+    "long": {
+      "default": "Борго-Маджоре"
+    }
+  },
+  {
+    "code": "SM-03",
+    "long": {
+      "default": "Доманьяно"
+    }
+  },
+  {
+    "code": "SM-04",
+    "long": {
+      "default": "Фаэтано"
+    }
+  },
+  {
+    "code": "SM-05",
+    "long": {
+      "default": "Фьорентино"
+    }
+  },
+  {
+    "code": "SM-08",
+    "long": {
+      "default": "Монте-Джардино"
+    }
+  },
+  {
+    "code": "WS-VF",
+    "long": {
+      "default": "Ваа-о-Фоноти"
+    }
+  },
+  {
+    "code": "WS-SA",
+    "long": {
+      "default": "Сатупаитеа"
+    }
+  },
+  {
+    "code": "WS-GI",
+    "long": {
+      "default": "Гагаифомауга"
+    }
+  },
+  {
+    "code": "WS-GE",
+    "long": {
+      "default": "Гагаэмауга"
+    }
+  },
+  {
+    "code": "WS-FA",
+    "long": {
+      "default": "Фаасалелеага"
+    }
+  },
+  {
+    "code": "WS-AA",
+    "long": {
+      "default": "Аана"
+    }
+  },
+  {
+    "code": "VC-05",
+    "long": {
+      "default": "Сент-Патрик"
+    }
+  },
+  {
+    "code": "VC-04",
+    "long": {
+      "default": "Сент-Джордж"
+    }
+  },
+  {
+    "code": "VC-03",
+    "long": {
+      "default": "Сент-Дэвид"
+    }
+  },
+  {
+    "code": "VC-02",
+    "long": {
+      "default": "Сент-Андру"
+    }
+  },
+  {
+    "code": "VC-06",
+    "long": {
+      "default": "Гренадины"
+    }
+  },
+  {
+    "code": "VC-01",
+    "long": {
+      "default": "Шарлотта"
+    }
+  },
+  {
+    "code": "MD-BD",
+    "long": {
+      "default": "Бендеры"
+    }
+  },
+  {
+    "code": "LC-11",
+    "long": {
+      "default": "Вье-Фор"
+    }
+  },
+  {
+    "code": "LC-10",
+    "long": {
+      "default": "Суфриер"
+    }
+  },
+  {
+    "code": "LC-12",
+    "long": {
+      "default": "Канарис"
+    }
+  },
+  {
+    "code": "LC-07",
+    "long": {
+      "default": "Лабори"
+    }
+  },
+  {
+    "code": "LC-06",
+    "long": {
+      "default": "Грос-Айлет"
+    }
+  },
+  {
+    "code": "LC-05",
+    "long": {
+      "default": "Денери"
+    }
+  },
+  {
+    "code": "LC-01",
+    "long": {
+      "default": "Анс-Лавуа"
+    }
+  },
+  {
+    "code": "KN-09",
+    "long": {
+      "default": "Сент-Пол-Капистер"
+    }
+  },
+  {
+    "code": "KN-03",
+    "long": {
+      "default": "Сент-Джордж-Бастер"
+    }
+  },
+  {
+    "code": "SH-HL",
+    "long": {
+      "default": "Остров Святой Елены"
+    }
+  },
+  {
+    "code": "RW-02",
+    "long": {
+      "default": "Западная провинция"
+    }
+  },
+  {
+    "code": "RW-01",
+    "long": {
+      "default": "Кигали"
+    }
+  },
+  {
+    "code": "RW-03",
+    "long": {
+      "default": "Северная провинция"
+    }
+  },
+  {
+    "code": "RW-04",
+    "long": {
+      "default": "Восточная провинция"
+    }
+  },
+  {
+    "code": "RW-05",
+    "long": {
+      "default": "Южная провинция"
+    }
+  },
+  {
+    "code": "RO-VL",
+    "long": {
+      "default": "Вылча"
+    }
+  },
+  {
+    "code": "RO-VS",
+    "long": {
+      "default": "Васлуй"
+    }
+  },
+  {
+    "code": "RO-TL",
+    "long": {
+      "default": "Тулча"
+    }
+  },
+  {
+    "code": "RO-TM",
+    "long": {
+      "default": "Тимиш"
+    }
+  },
+  {
+    "code": "RO-TR",
+    "long": {
+      "default": "Телеорман"
+    }
+  },
+  {
+    "code": "RO-SV",
+    "long": {
+      "default": "Сучава"
+    }
+  },
+  {
+    "code": "RO-SB",
+    "long": {
+      "default": "Сибиу"
+    }
+  },
+  {
+    "code": "RO-SM",
+    "long": {
+      "default": "Сату Маре"
+    }
+  },
+  {
+    "code": "RO-SJ",
+    "long": {
+      "default": "Сэлаж"
+    }
+  },
+  {
+    "code": "RO-NT",
+    "long": {
+      "default": "Нямц"
+    }
+  },
+  {
+    "code": "RO-MS",
+    "long": {
+      "default": "Муреш"
+    }
+  },
+  {
+    "code": "RO-MH",
+    "long": {
+      "default": "Мехединци"
+    }
+  },
+  {
+    "code": "RO-MM",
+    "long": {
+      "default": "Марамуреш"
+    }
+  },
+  {
+    "code": "RO-IS",
+    "long": {
+      "default": "Яссы"
+    }
+  },
+  {
+    "code": "RO-IL",
+    "long": {
+      "default": "Яломица"
+    }
+  },
+  {
+    "code": "RO-HD",
+    "long": {
+      "default": "Хунедоара"
+    }
+  },
+  {
+    "code": "RO-HR",
+    "long": {
+      "default": "Харгита"
+    }
+  },
+  {
+    "code": "RO-GJ",
+    "long": {
+      "default": "Горж"
+    }
+  },
+  {
+    "code": "RO-GR",
+    "long": {
+      "default": "Джурджу"
+    }
+  },
+  {
+    "code": "RO-GL",
+    "long": {
+      "default": "Галац"
+    }
+  },
+  {
+    "code": "RO-DJ",
+    "long": {
+      "default": "Долж"
+    }
+  },
+  {
+    "code": "RO-DB",
+    "long": {
+      "default": "Дымбовица"
+    }
+  },
+  {
+    "code": "RO-CV",
+    "long": {
+      "default": "Ковасна"
+    }
+  },
+  {
+    "code": "RO-CT",
+    "long": {
+      "default": "Констанца"
+    }
+  },
+  {
+    "code": "RO-CJ",
+    "long": {
+      "default": "Клуж"
+    }
+  },
+  {
+    "code": "RO-CS",
+    "long": {
+      "default": "Караш-Северин"
+    }
+  },
+  {
+    "code": "RO-CL",
+    "long": {
+      "default": "Кэлэраши"
+    }
+  },
+  {
+    "code": "RO-BZ",
+    "long": {
+      "default": "Бузэу"
+    }
+  },
+  {
+    "code": "RO-B",
+    "long": {
+      "default": "Бухарест"
+    }
+  },
+  {
+    "code": "RO-BV",
+    "long": {
+      "default": "Брашов"
+    }
+  },
+  {
+    "code": "RO-BR",
+    "long": {
+      "default": "Брэила"
+    }
+  },
+  {
+    "code": "RO-BT",
+    "long": {
+      "default": "Ботошани"
+    }
+  },
+  {
+    "code": "RO-BN",
+    "long": {
+      "default": "Бистрица-Нэсэуд"
+    }
+  },
+  {
+    "code": "RO-BH",
+    "long": {
+      "default": "Бихор"
+    }
+  },
+  {
+    "code": "RO-BC",
+    "long": {
+      "default": "Бакэу"
+    }
+  },
+  {
+    "code": "RO-AG",
+    "long": {
+      "default": "Арджеш"
+    }
+  },
+  {
+    "code": "RO-AR",
+    "long": {
+      "default": "Арад"
+    }
+  },
+  {
+    "code": "RO-AB",
+    "long": {
+      "default": "Алба"
+    }
+  },
+  {
+    "code": "QA-MS",
+    "long": {
+      "default": "Аш-Шамаль"
+    }
+  },
+  {
+    "code": "QA-KH",
+    "long": {
+      "default": "Аль-Хор"
+    }
+  },
+  {
+    "code": "QA-US",
+    "long": {
+      "default": "Умм-Салаль"
+    }
+  },
+  {
+    "code": "QA-RA",
+    "long": {
+      "default": "Ар-Райян"
+    }
+  },
+  {
+    "code": "QA-DA",
+    "long": {
+      "default": "Ад-Доха"
+    }
+  },
+  {
+    "code": "QA-WA",
+    "long": {
+      "default": "Аль-Вакра"
+    }
+  },
+  {
+    "code": "QA-ZA",
+    "long": {
+      "default": "Эд-Дайиан"
+    }
+  },
+  {
+    "code": "PT-15",
+    "long": {
+      "default": "Сетубал"
+    }
+  },
+  {
+    "code": "PT-14",
+    "long": {
+      "default": "Сантарен"
+    }
+  },
+  {
+    "code": "PT-12",
+    "long": {
+      "default": "Порталегре"
+    }
+  },
+  {
+    "code": "PT-10",
+    "long": {
+      "default": "Лейрия"
+    }
+  },
+  {
+    "code": "PT-08",
+    "long": {
+      "default": "Фару"
+    }
+  },
+  {
+    "code": "PT-07",
+    "long": {
+      "default": "Эвора"
+    }
+  },
+  {
+    "code": "PT-05",
+    "long": {
+      "default": "Каштелу Бранку"
+    }
+  },
+  {
+    "code": "PT-02",
+    "long": {
+      "default": "Бежа"
+    }
+  },
+  {
+    "code": "PT-30",
+    "long": {
+      "default": "Мадейра"
+    }
+  },
+  {
+    "code": "PT-18",
+    "long": {
+      "default": "Визеу"
+    }
+  },
+  {
+    "code": "PT-17",
+    "long": {
+      "default": "Вила Реал"
+    }
+  },
+  {
+    "code": "PT-16",
+    "long": {
+      "default": "Виана ду Каштелу"
+    }
+  },
+  {
+    "code": "PT-13",
+    "long": {
+      "default": "Порту"
+    }
+  },
+  {
+    "code": "PT-06",
+    "long": {
+      "default": "Коимбра"
+    }
+  },
+  {
+    "code": "PT-04",
+    "long": {
+      "default": "Браганса"
+    }
+  },
+  {
+    "code": "PT-03",
+    "long": {
+      "default": "Брага"
+    }
+  },
+  {
+    "code": "PT-01",
+    "long": {
+      "default": "Авейру"
+    }
+  },
+  {
+    "code": "PT-20",
+    "long": {
+      "default": "Азорские острова"
+    }
+  },
+  {
+    "code": "PH-41",
+    "long": {
+      "default": "Мимаропа"
+    }
+  },
+  {
+    "code": "PH-12",
+    "long": {
+      "default": "Соксарджен"
+    }
+  },
+  {
+    "code": "PH-13",
+    "long": {
+      "default": "Карага"
+    }
+  },
+  {
+    "code": "PH-40",
+    "long": {
+      "default": "Калабарсон"
+    }
+  },
+  {
+    "code": "PH-09",
+    "long": {
+      "default": "Полуостров Замбоанга"
+    }
+  },
+  {
+    "code": "PH-11",
+    "long": {
+      "default": "Давао"
+    }
+  },
+  {
+    "code": "PH-05",
+    "long": {
+      "default": "Бикольский регион"
+    }
+  },
+  {
+    "code": "PH-00",
+    "long": {
+      "default": "Столичный регион"
+    }
+  },
+  {
+    "code": "PE-SAM",
+    "long": {
+      "default": "Сан-Мартин"
+    }
+  },
+  {
+    "code": "PE-HUC",
+    "long": {
+      "default": "Уануко"
+    }
+  },
+  {
+    "code": "PE-CAJ",
+    "long": {
+      "default": "Кахамарка"
+    }
+  },
+  {
+    "code": "PE-MOQ",
+    "long": {
+      "default": "Мокегуа"
+    }
+  },
+  {
+    "code": "PE-LMA",
+    "long": {
+      "default": "Лима-Метрополитана"
+    }
+  },
+  {
+    "code": "PE-CUS",
+    "long": {
+      "default": "Куско"
+    }
+  },
+  {
+    "code": "PE-CAL",
+    "long": {
+      "default": "Кальяо"
+    }
+  },
+  {
+    "code": "PE-APU",
+    "long": {
+      "default": "Апуримак"
+    }
+  },
+  {
+    "code": "PY-2",
+    "long": {
+      "default": "Сан-Педро"
+    }
+  },
+  {
+    "code": "PY-15",
+    "long": {
+      "default": "Пресиденте-Аес"
+    }
+  },
+  {
+    "code": "PY-9",
+    "long": {
+      "default": "Парагуари"
+    }
+  },
+  {
+    "code": "PY-12",
+    "long": {
+      "default": "Ньеэмбуку"
+    }
+  },
+  {
+    "code": "PY-8",
+    "long": {
+      "default": "Мисьонес"
+    }
+  },
+  {
+    "code": "PY-7",
+    "long": {
+      "default": "Итапуа"
+    }
+  },
+  {
+    "code": "PY-4",
+    "long": {
+      "default": "Гуайра"
+    }
+  },
+  {
+    "code": "PY-3",
+    "long": {
+      "default": "Кордильера"
+    }
+  },
+  {
+    "code": "PY-1",
+    "long": {
+      "default": "Консепсьон"
+    }
+  },
+  {
+    "code": "PY-11",
+    "long": {
+      "default": "Сентраль"
+    }
+  },
+  {
+    "code": "PY-14",
+    "long": {
+      "default": "Канендию"
+    }
+  },
+  {
+    "code": "PY-6",
+    "long": {
+      "default": "Каасапа"
+    }
+  },
+  {
+    "code": "PY-5",
+    "long": {
+      "default": "Каагуасу"
+    }
+  },
+  {
+    "code": "PY-13",
+    "long": {
+      "default": "Амамбай"
+    }
+  },
+  {
+    "code": "PY-10",
+    "long": {
+      "default": "Альто-Парана"
+    }
+  },
+  {
+    "code": "PY-16",
+    "long": {
+      "default": "Альто-Парагвай"
+    }
+  },
+  {
+    "code": "PY-ASU",
+    "long": {
+      "default": "Асунсьон"
+    }
+  },
+  {
+    "code": "PY-19",
+    "long": {
+      "default": "Бокерон"
+    }
+  },
+  {
+    "code": "PG-WPD",
+    "long": {
+      "default": "Западная провинция"
+    }
+  },
+  {
+    "code": "PG-WHM",
+    "long": {
+      "default": "Уэстерн-Хайлендс"
+    }
+  },
+  {
+    "code": "PG-SHM",
+    "long": {
+      "default": "Саутерн-Хайлендс"
+    }
+  },
+  {
+    "code": "PG-SAN",
+    "long": {
+      "default": "Сандаун"
+    }
+  },
+  {
+    "code": "PG-NSB",
+    "long": {
+      "default": "Бугенвиль"
+    }
+  },
+  {
+    "code": "PG-NPP",
+    "long": {
+      "default": "Оро"
+    }
+  },
+  {
+    "code": "PG-NIK",
+    "long": {
+      "default": "Новая Ирландия"
+    }
+  },
+  {
+    "code": "PG-NCD",
+    "long": {
+      "default": "Столичный округ"
+    }
+  },
+  {
+    "code": "PG-MPL",
+    "long": {
+      "default": "Моробе"
+    }
+  },
+  {
+    "code": "PG-MRL",
+    "long": {
+      "default": "Манус"
+    }
+  },
+  {
+    "code": "PG-MPM",
+    "long": {
+      "default": "Маданг"
+    }
+  },
+  {
+    "code": "PG-GPK",
+    "long": {
+      "default": "Залив"
+    }
+  },
+  {
+    "code": "PG-EPW",
+    "long": {
+      "default": "Энга"
+    }
+  },
+  {
+    "code": "PG-ESW",
+    "long": {
+      "default": "Восточный Сепик"
+    }
+  },
+  {
+    "code": "PG-EHG",
+    "long": {
+      "default": "Истерн Хайлендс"
+    }
+  },
+  {
+    "code": "PG-CPK",
+    "long": {
+      "default": "Симбу"
+    }
+  },
+  {
+    "code": "PG-MBA",
+    "long": {
+      "default": "Милн-Бей"
+    }
+  },
+  {
+    "code": "PG-CPM",
+    "long": {
+      "default": "Центральная провинция"
+    }
+  },
+  {
+    "code": "PG-HLA",
+    "long": {
+      "default": "Хела"
+    }
+  },
+  {
+    "code": "PG-JWK",
+    "long": {
+      "default": "Дживака"
+    }
+  },
+  {
+    "code": "PA-9",
+    "long": {
+      "default": "Верагуас"
+    }
+  },
+  {
+    "code": "PA-8",
+    "long": {
+      "default": "Панама"
+    }
+  },
+  {
+    "code": "PA-7",
+    "long": {
+      "default": "Лос-Сантос"
+    }
+  },
+  {
+    "code": "PA-6",
+    "long": {
+      "default": "Эррера"
+    }
+  },
+  {
+    "code": "PA-5",
+    "long": {
+      "default": "Дарьен"
+    }
+  },
+  {
+    "code": "PA-3",
+    "long": {
+      "default": "Колон"
+    }
+  },
+  {
+    "code": "PA-2",
+    "long": {
+      "default": "Кокле"
+    }
+  },
+  {
+    "code": "PA-4",
+    "long": {
+      "default": "Чирики"
+    }
+  },
+  {
+    "code": "PA-1",
+    "long": {
+      "default": "Бокас-дель-Торо"
+    }
+  },
+  {
+    "code": "PA-NB",
+    "long": {
+      "default": "Нгобе-Бугле"
+    }
+  },
+  {
+    "code": "PA-10",
+    "long": {
+      "default": "Западная Панама"
+    }
+  },
+  {
+    "code": "PS-BTH",
+    "long": {
+      "default": "Вифлеем"
+    }
+  },
+  {
+    "code": "PS-DEB",
+    "long": {
+      "default": "Дейр эль-Балах"
+    }
+  },
+  {
+    "code": "PS-GZA",
+    "long": {
+      "default": "Газа"
+    }
+  },
+  {
+    "code": "PS-HBN",
+    "long": {
+      "default": "Хеврон"
+    }
+  },
+  {
+    "code": "PS-JEN",
+    "long": {
+      "default": "Джанин"
+    }
+  },
+  {
+    "code": "PS-JRH",
+    "long": {
+      "default": "Иерихон"
+    }
+  },
+  {
+    "code": "PS-JEM",
+    "long": {
+      "default": "Иерусалим"
+    }
+  },
+  {
+    "code": "PS-KYS",
+    "long": {
+      "default": "Хан-Юнис"
+    }
+  },
+  {
+    "code": "PS-NBS",
+    "long": {
+      "default": "Наблус"
+    }
+  },
+  {
+    "code": "PS-NGZ",
+    "long": {
+      "default": "Северная Газа"
+    }
+  },
+  {
+    "code": "PS-QQA",
+    "long": {
+      "default": "Калькилия"
+    }
+  },
+  {
+    "code": "PS-RFH",
+    "long": {
+      "default": "Рафах"
+    }
+  },
+  {
+    "code": "PS-RBH",
+    "long": {
+      "default": "Рамалла и эль-Бира"
+    }
+  },
+  {
+    "code": "PS-SLT",
+    "long": {
+      "default": "Сальфит"
+    }
+  },
+  {
+    "code": "PS-TBS",
+    "long": {
+      "default": "Тубас"
+    }
+  },
+  {
+    "code": "PS-TKM",
+    "long": {
+      "default": "Тулькарм"
+    }
+  },
+  {
+    "code": "PW-224",
+    "long": {
+      "default": "Нгатпанг"
+    }
+  },
+  {
+    "code": "PW-370",
+    "long": {
+      "default": "Сонсорол"
+    }
+  },
+  {
+    "code": "PW-100",
+    "long": {
+      "default": "Каянгел"
+    }
+  },
+  {
+    "code": "PW-050",
+    "long": {
+      "default": "Хатохобеи"
+    }
+  },
+  {
+    "code": "PW-002",
+    "long": {
+      "default": "Аимелиик"
+    }
+  },
+  {
+    "code": "PW-004",
+    "long": {
+      "default": "Аираи"
+    }
+  },
+  {
+    "code": "PW-010",
+    "long": {
+      "default": "Ангаур"
+    }
+  },
+  {
+    "code": "PW-150",
+    "long": {
+      "default": "Корор"
+    }
+  },
+  {
+    "code": "PW-212",
+    "long": {
+      "default": "Мелекеок"
+    }
+  },
+  {
+    "code": "PW-214",
+    "long": {
+      "default": "Нгараард"
+    }
+  },
+  {
+    "code": "PW-226",
+    "long": {
+      "default": "Нгхесар"
+    }
+  },
+  {
+    "code": "PW-218",
+    "long": {
+      "default": "Нгархелонг"
+    }
+  },
+  {
+    "code": "PW-222",
+    "long": {
+      "default": "Нгардмау"
+    }
+  },
+  {
+    "code": "PW-227",
+    "long": {
+      "default": "Нгаремленгуи"
+    }
+  },
+  {
+    "code": "PW-228",
+    "long": {
+      "default": "Нгивал"
+    }
+  },
+  {
+    "code": "PW-350",
+    "long": {
+      "default": "Пелелиу"
+    }
+  },
+  {
+    "code": "PK-KP",
+    "long": {
+      "default": "Хайбер-Пахтунхва"
+    }
+  },
+  {
+    "code": "PK-GB",
+    "long": {
+      "default": "Гилгит-Балтистан"
+    }
+  },
+  {
+    "code": "OM-DA",
+    "long": {
+      "default": "Эд-Дахилия"
+    }
+  },
+  {
+    "code": "OM-BJ",
+    "long": {
+      "default": "Южная Эль-Батина"
+    }
+  },
+  {
+    "code": "OM-WU",
+    "long": {
+      "default": "Эль-Вуста"
+    }
+  },
+  {
+    "code": "OM-SJ",
+    "long": {
+      "default": "Южная Эш-Шаркия"
+    }
+  },
+  {
+    "code": "OM-ZA",
+    "long": {
+      "default": "Эз-Захира"
+    }
+  },
+  {
+    "code": "OM-MA",
+    "long": {
+      "default": "Маскат"
+    }
+  },
+  {
+    "code": "OM-MU",
+    "long": {
+      "default": "Мусандам"
+    }
+  },
+  {
+    "code": "OM-ZU",
+    "long": {
+      "default": "Дофар"
+    }
+  },
+  {
+    "code": "OM-BU",
+    "long": {
+      "default": "Эль-Бурайми"
+    }
+  },
+  {
+    "code": "OM-SS",
+    "long": {
+      "default": "Северная Эш-Шаркия"
+    }
+  },
+  {
+    "code": "OM-BS",
+    "long": {
+      "default": "Северная Эль-Батина"
+    }
+  },
+  {
+    "code": "NO-20",
+    "long": {
+      "default": "Финнмарк"
+    }
+  },
+  {
+    "code": "NO-07",
+    "long": {
+      "default": "Вестфолл"
+    }
+  },
+  {
+    "code": "NO-10",
+    "long": {
+      "default": "Вест-Агдер"
+    }
+  },
+  {
+    "code": "NO-19",
+    "long": {
+      "default": "Тромс"
+    }
+  },
+  {
+    "code": "NO-08",
+    "long": {
+      "default": "Телемарк"
+    }
+  },
+  {
+    "code": "NO-16",
+    "long": {
+      "default": "Сёр-Трёнделаг"
+    }
+  },
+  {
+    "code": "NO-14",
+    "long": {
+      "default": "Согн-ог-Фьюране"
+    }
+  },
+  {
+    "code": "NO-11",
+    "long": {
+      "default": "Ругаланн"
+    }
+  },
+  {
+    "code": "NO-01",
+    "long": {
+      "default": "Эстфолл"
+    }
+  },
+  {
+    "code": "NO-03",
+    "long": {
+      "default": "Осло"
+    }
+  },
+  {
+    "code": "NO-05",
+    "long": {
+      "default": "Оппланн"
+    }
+  },
+  {
+    "code": "NO-17",
+    "long": {
+      "default": "Нур-Трёнделаг"
+    }
+  },
+  {
+    "code": "NO-18",
+    "long": {
+      "default": "Нурланн"
+    }
+  },
+  {
+    "code": "NO-15",
+    "long": {
+      "default": "Мёре-ог-Ромсдал"
+    }
+  },
+  {
+    "code": "NO-12",
+    "long": {
+      "default": "Хордаланн"
+    }
+  },
+  {
+    "code": "NO-04",
+    "long": {
+      "default": "Хедмарк"
+    }
+  },
+  {
+    "code": "NO-06",
+    "long": {
+      "default": "Бускеруд"
+    }
+  },
+  {
+    "code": "NO-09",
+    "long": {
+      "default": "Эуст-Агдер"
+    }
+  },
+  {
+    "code": "NO-02",
+    "long": {
+      "default": "Акерсхус"
+    }
+  },
+  {
+    "code": "NG-SO",
+    "long": {
+      "default": "Сокото"
+    }
+  },
+  {
+    "code": "NG-RI",
+    "long": {
+      "default": "Риверс"
+    }
+  },
+  {
+    "code": "NG-OY",
+    "long": {
+      "default": "Ойо"
+    }
+  },
+  {
+    "code": "NG-ON",
+    "long": {
+      "default": "Ондо"
+    }
+  },
+  {
+    "code": "NG-OG",
+    "long": {
+      "default": "Огун"
+    }
+  },
+  {
+    "code": "NG-NI",
+    "long": {
+      "default": "Нигер"
+    }
+  },
+  {
+    "code": "NG-LA",
+    "long": {
+      "default": "Лагос"
+    }
+  },
+  {
+    "code": "NG-KW",
+    "long": {
+      "default": "Квара"
+    }
+  },
+  {
+    "code": "NG-KT",
+    "long": {
+      "default": "Кацина"
+    }
+  },
+  {
+    "code": "NG-KN",
+    "long": {
+      "default": "Кано"
+    }
+  },
+  {
+    "code": "NG-KD",
+    "long": {
+      "default": "Кадуна"
+    }
+  },
+  {
+    "code": "NG-IM",
+    "long": {
+      "default": "Имо"
+    }
+  },
+  {
+    "code": "NG-CR",
+    "long": {
+      "default": "Кросс Ривер"
+    }
+  },
+  {
+    "code": "NG-BO",
+    "long": {
+      "default": "Борно"
+    }
+  },
+  {
+    "code": "NG-BE",
+    "long": {
+      "default": "Бенуэ"
+    }
+  },
+  {
+    "code": "NG-BA",
+    "long": {
+      "default": "Баучи"
+    }
+  },
+  {
+    "code": "NG-AN",
+    "long": {
+      "default": "Анамбра"
+    }
+  },
+  {
+    "code": "NG-AK",
+    "long": {
+      "default": "Аква Ибом"
+    }
+  },
+  {
+    "code": "NG-AB",
+    "long": {
+      "default": "Абия"
+    }
+  },
+  {
+    "code": "NG-DE",
+    "long": {
+      "default": "Дельта"
+    }
+  },
+  {
+    "code": "NG-AD",
+    "long": {
+      "default": "Адамава"
+    }
+  },
+  {
+    "code": "NG-ED",
+    "long": {
+      "default": "Эдо"
+    }
+  },
+  {
+    "code": "NG-EN",
+    "long": {
+      "default": "Энугу"
+    }
+  },
+  {
+    "code": "NG-JI",
+    "long": {
+      "default": "Джигава"
+    }
+  },
+  {
+    "code": "NG-BY",
+    "long": {
+      "default": "Байельса"
+    }
+  },
+  {
+    "code": "NG-EB",
+    "long": {
+      "default": "Эбоньи"
+    }
+  },
+  {
+    "code": "NG-EK",
+    "long": {
+      "default": "Экити"
+    }
+  },
+  {
+    "code": "NG-GO",
+    "long": {
+      "default": "Гомбе"
+    }
+  },
+  {
+    "code": "NG-NA",
+    "long": {
+      "default": "Насарава"
+    }
+  },
+  {
+    "code": "NG-ZA",
+    "long": {
+      "default": "Замфара"
+    }
+  },
+  {
+    "code": "NG-KE",
+    "long": {
+      "default": "Кебби"
+    }
+  },
+  {
+    "code": "NG-KO",
+    "long": {
+      "default": "Коги"
+    }
+  },
+  {
+    "code": "NG-OS",
+    "long": {
+      "default": "Осун"
+    }
+  },
+  {
+    "code": "NG-TA",
+    "long": {
+      "default": "Тараба"
+    }
+  },
+  {
+    "code": "NG-YO",
+    "long": {
+      "default": "Йобе"
+    }
+  },
+  {
+    "code": "NE-7",
+    "long": {
+      "default": "Зиндер"
+    }
+  },
+  {
+    "code": "NE-5",
+    "long": {
+      "default": "Тахуа"
+    }
+  },
+  {
+    "code": "NE-4",
+    "long": {
+      "default": "Маради"
+    }
+  },
+  {
+    "code": "NE-3",
+    "long": {
+      "default": "Досо"
+    }
+  },
+  {
+    "code": "NE-8",
+    "long": {
+      "default": "Ниамей"
+    }
+  },
+  {
+    "code": "NI-RI",
+    "long": {
+      "default": "Ривас"
+    }
+  },
+  {
+    "code": "NI-SJ",
+    "long": {
+      "default": "Сан-Хуан"
+    }
+  },
+  {
+    "code": "NI-NS",
+    "long": {
+      "default": "Нуэва-Сеговия"
+    }
+  },
+  {
+    "code": "NI-MT",
+    "long": {
+      "default": "Матагальпа"
+    }
+  },
+  {
+    "code": "NI-MS",
+    "long": {
+      "default": "Масая"
+    }
+  },
+  {
+    "code": "NI-MN",
+    "long": {
+      "default": "Манагуа"
+    }
+  },
+  {
+    "code": "NI-MD",
+    "long": {
+      "default": "Мадрис"
+    }
+  },
+  {
+    "code": "NI-LE",
+    "long": {
+      "default": "Леон"
+    }
+  },
+  {
+    "code": "NI-JI",
+    "long": {
+      "default": "Хинотега"
+    }
+  },
+  {
+    "code": "NI-GR",
+    "long": {
+      "default": "Гранада"
+    }
+  },
+  {
+    "code": "NI-ES",
+    "long": {
+      "default": "Эстели"
+    }
+  },
+  {
+    "code": "NI-CO",
+    "long": {
+      "default": "Чонталес"
+    }
+  },
+  {
+    "code": "NI-CI",
+    "long": {
+      "default": "Чинандега"
+    }
+  },
+  {
+    "code": "NI-CA",
+    "long": {
+      "default": "Карасо"
+    }
+  },
+  {
+    "code": "NI-BO",
+    "long": {
+      "default": "Боако"
+    }
+  },
+  {
+    "code": "NI-AN",
+    "long": {
+      "default": "Атлантический Северный"
+    }
+  },
+  {
+    "code": "NI-AS",
+    "long": {
+      "default": "Атлантический Южный"
+    }
+  },
+  {
+    "code": "NZ-MWT",
+    "long": {
+      "default": "Манавату-Уангануи"
+    }
+  },
+  {
+    "code": "NZ-WKO",
+    "long": {
+      "default": "Уаикато"
+    }
+  },
+  {
+    "code": "NZ-TAS",
+    "long": {
+      "default": "Тасман"
+    }
+  },
+  {
+    "code": "NZ-TKI",
+    "long": {
+      "default": "Таранаки"
+    }
+  },
+  {
+    "code": "NZ-HKB",
+    "long": {
+      "default": "Хокс-Бей"
+    }
+  },
+  {
+    "code": "NZ-CIT",
+    "long": {
+      "default": "Архипелаг Чатем"
+    }
+  },
+  {
+    "code": "NZ-NSN",
+    "long": {
+      "default": "Нельсон"
+    }
+  },
+  {
+    "code": "NP-5",
+    "long": {
+      "default": "Дальнезападный регион"
+    }
+  },
+  {
+    "code": "NP-2",
+    "long": {
+      "default": "Среднезападный регион"
+    }
+  },
+  {
+    "code": "NP-1",
+    "long": {
+      "default": "Центральный регион"
+    }
+  },
+  {
+    "code": "NP-4",
+    "long": {
+      "default": "Восточный регион"
+    }
+  },
+  {
+    "code": "NP-3",
+    "long": {
+      "default": "Западный регион"
+    }
+  },
+  {
+    "code": "NR-13",
+    "long": {
+      "default": "Уабо"
+    }
+  },
+  {
+    "code": "NR-12",
+    "long": {
+      "default": "Нибок"
+    }
+  },
+  {
+    "code": "NR-11",
+    "long": {
+      "default": "Мененг"
+    }
+  },
+  {
+    "code": "NR-10",
+    "long": {
+      "default": "Июв"
+    }
+  },
+  {
+    "code": "NR-09",
+    "long": {
+      "default": "Ева"
+    }
+  },
+  {
+    "code": "NR-08",
+    "long": {
+      "default": "Денигомоду"
+    }
+  },
+  {
+    "code": "NR-07",
+    "long": {
+      "default": "Буада"
+    }
+  },
+  {
+    "code": "NR-06",
+    "long": {
+      "default": "Боэ"
+    }
+  },
+  {
+    "code": "NR-05",
+    "long": {
+      "default": "Баити"
+    }
+  },
+  {
+    "code": "NR-04",
+    "long": {
+      "default": "Анибар"
+    }
+  },
+  {
+    "code": "NR-03",
+    "long": {
+      "default": "Анетан"
+    }
+  },
+  {
+    "code": "NR-02",
+    "long": {
+      "default": "Анабар"
+    }
+  },
+  {
+    "code": "NR-01",
+    "long": {
+      "default": "Айво"
+    }
+  },
+  {
+    "code": "NA-CA",
+    "long": {
+      "default": "Каприви"
+    }
+  },
+  {
+    "code": "NA-ER",
+    "long": {
+      "default": "Эронго"
+    }
+  },
+  {
+    "code": "NA-HA",
+    "long": {
+      "default": "Хардап"
+    }
+  },
+  {
+    "code": "NA-KA",
+    "long": {
+      "default": "Карас"
+    }
+  },
+  {
+    "code": "NA-KU",
+    "long": {
+      "default": "Кунене"
+    }
+  },
+  {
+    "code": "NA-OD",
+    "long": {
+      "default": "Очосондьюпа"
+    }
+  },
+  {
+    "code": "NA-KE",
+    "long": {
+      "default": "Восточный Окаванго"
+    }
+  },
+  {
+    "code": "NA-KW",
+    "long": {
+      "default": "Западный Окаванго"
+    }
+  },
+  {
+    "code": "MM-05",
+    "long": {
+      "default": "Танинтайи"
+    }
+  },
+  {
+    "code": "MM-17",
+    "long": {
+      "default": "Шан"
+    }
+  },
+  {
+    "code": "MM-01",
+    "long": {
+      "default": "Сикайн"
+    }
+  },
+  {
+    "code": "MM-06",
+    "long": {
+      "default": "Янгон"
+    }
+  },
+  {
+    "code": "MM-16",
+    "long": {
+      "default": "Ракхайн"
+    }
+  },
+  {
+    "code": "MM-02",
+    "long": {
+      "default": "Пегу"
+    }
+  },
+  {
+    "code": "MM-15",
+    "long": {
+      "default": "Мон"
+    }
+  },
+  {
+    "code": "MM-04",
+    "long": {
+      "default": "Мандалай"
+    }
+  },
+  {
+    "code": "MM-03",
+    "long": {
+      "default": "Магуэ"
+    }
+  },
+  {
+    "code": "MM-12",
+    "long": {
+      "default": "Кая"
+    }
+  },
+  {
+    "code": "MM-13",
+    "long": {
+      "default": "Карен"
+    }
+  },
+  {
+    "code": "MM-11",
+    "long": {
+      "default": "Качин"
+    }
+  },
+  {
+    "code": "MM-07",
+    "long": {
+      "default": "Иравади"
+    }
+  },
+  {
+    "code": "MM-14",
+    "long": {
+      "default": "Чин"
+    }
+  },
+  {
+    "code": "MZ-Q",
+    "long": {
+      "default": "Замбезия"
+    }
+  },
+  {
+    "code": "MZ-S",
+    "long": {
+      "default": "Софала"
+    }
+  },
+  {
+    "code": "MZ-A",
+    "long": {
+      "default": "Ньяса"
+    }
+  },
+  {
+    "code": "MZ-L",
+    "long": {
+      "default": "Мапуту"
+    }
+  },
+  {
+    "code": "MZ-B",
+    "long": {
+      "default": "Маника"
+    }
+  },
+  {
+    "code": "MZ-I",
+    "long": {
+      "default": "Иньямбане"
+    }
+  },
+  {
+    "code": "MZ-G",
+    "long": {
+      "default": "Газа"
+    }
+  },
+  {
+    "code": "MZ-P",
+    "long": {
+      "default": "Кабу-Делгаду"
+    }
+  },
+  {
+    "code": "MZ-MPM",
+    "long": {
+      "default": "Мапуту"
+    }
+  },
+  {
+    "code": "MA-07",
+    "long": {
+      "default": "Рабат-Сале-Заммур-Заер"
+    }
+  },
+  {
+    "code": "MA-06",
+    "long": {
+      "default": "Мекнес-Тафилалет"
+    }
+  },
+  {
+    "code": "MA-11",
+    "long": {
+      "default": "Марракеш-Тенсифт-Эль-Хауз"
+    }
+  },
+  {
+    "code": "MA-05",
+    "long": {
+      "default": "Фес-Бульман"
+    }
+  },
+  {
+    "code": "MA-08",
+    "long": {
+      "default": "Большая Касабланка"
+    }
+  },
+  {
+    "code": "MA-09",
+    "long": {
+      "default": "Шавия-Уардига"
+    }
+  },
+  {
+    "code": "MA-10",
+    "long": {
+      "default": "Дуккала-Абда"
+    }
+  },
+  {
+    "code": "MA-02",
+    "long": {
+      "default": "Гарб-Шрарда-Бени-Хсен"
+    }
+  },
+  {
+    "code": "MA-14",
+    "long": {
+      "default": "Гулимим-Эс-Смара"
+    }
+  },
+  {
+    "code": "MA-04",
+    "long": {
+      "default": "Восточная"
+    }
+  },
+  {
+    "code": "MA-13",
+    "long": {
+      "default": "Сус-Масса-Драа"
+    }
+  },
+  {
+    "code": "MA-12",
+    "long": {
+      "default": "Тадла-Азилаль"
+    }
+  },
+  {
+    "code": "MA-01",
+    "long": {
+      "default": "Танжер-Тетуан"
+    }
+  },
+  {
+    "code": "MA-03",
+    "long": {
+      "default": "Таза-Эль-Хосейма-Таунат"
+    }
+  },
+  {
+    "code": "MA-15",
+    "long": {
+      "default": "Эль-Аюн-Буждур-Сегиет-эль-Хамра"
+    }
+  },
+  {
+    "code": "MA-16",
+    "long": {
+      "default": "Вади-эд-Дахаб-эль-Кувира"
+    }
+  },
+  {
     "code": "ME-17",
     "long": {
       "default": "Рожае"

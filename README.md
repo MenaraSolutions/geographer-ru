@@ -11,5 +11,5 @@ Feel free to submit translation fixes and additions directly to this repo.
 ## Current translation coverage
 
 Country names: 100%
-State (subdivision) names: 70%
+State (subdivision) names: 87%
 Cities: TBC
