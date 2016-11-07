@@ -1,5 +1,977 @@
 [
   {
+    "code": "ZW-MI",
+    "long": {
+      "default": "Мидлендс"
+    }
+  },
+  {
+    "code": "ZW-MS",
+    "long": {
+      "default": "Южный Матабелеленд"
+    }
+  },
+  {
+    "code": "ZW-MN",
+    "long": {
+      "default": "Северный Матабелеленд"
+    }
+  },
+  {
+    "code": "ZW-MV",
+    "long": {
+      "default": "Масвинго"
+    }
+  },
+  {
+    "code": "ZW-MW",
+    "long": {
+      "default": "Западный Машоналенд"
+    }
+  },
+  {
+    "code": "ZW-ME",
+    "long": {
+      "default": "Восточный Машоналенд"
+    }
+  },
+  {
+    "code": "ZW-MC",
+    "long": {
+      "default": "Центральный Машоналенд"
+    }
+  },
+  {
+    "code": "ZW-MA",
+    "long": {
+      "default": "Маникаленд"
+    }
+  },
+  {
+    "code": "ZW-BU",
+    "long": {
+      "default": "Булавайо"
+    }
+  },
+  {
+    "code": "ZW-HA",
+    "long": {
+      "default": "Хараре"
+    }
+  },
+  {
+    "code": "ZM-01",
+    "long": {
+      "default": "Западная"
+    }
+  },
+  {
+    "code": "ZM-07",
+    "long": {
+      "default": "Южная"
+    }
+  },
+  {
+    "code": "ZM-06",
+    "long": {
+      "default": "Северо-Западная"
+    }
+  },
+  {
+    "code": "ZM-05",
+    "long": {
+      "default": "Северная"
+    }
+  },
+  {
+    "code": "ZM-09",
+    "long": {
+      "default": "Лусака"
+    }
+  },
+  {
+    "code": "ZM-04",
+    "long": {
+      "default": "Луапула"
+    }
+  },
+  {
+    "code": "ZM-03",
+    "long": {
+      "default": "Восточная"
+    }
+  },
+  {
+    "code": "ZM-08",
+    "long": {
+      "default": "Коппербелт"
+    }
+  },
+  {
+    "code": "ZM-02",
+    "long": {
+      "default": "Центральная"
+    }
+  },
+  {
+    "code": "ZM-10",
+    "long": {
+      "default": "Мучинга"
+    }
+  },
+  {
+    "code": "YE-TA",
+    "long": {
+      "default": "Таиз"
+    }
+  },
+  {
+    "code": "YE-SN",
+    "long": {
+      "default": "Сана"
+    }
+  },
+  {
+    "code": "YE-SD",
+    "long": {
+      "default": "Саада"
+    }
+  },
+  {
+    "code": "YE-RA",
+    "long": {
+      "default": "Райма"
+    }
+  },
+  {
+    "code": "YE-MA",
+    "long": {
+      "default": "Мариб"
+    }
+  },
+  {
+    "code": "YE-MW",
+    "long": {
+      "default": "Махвит"
+    }
+  },
+  {
+    "code": "YE-JA",
+    "long": {
+      "default": "Эль-Джауф"
+    }
+  },
+  {
+    "code": "YE-HD",
+    "long": {
+      "default": "Хадрамаут"
+    }
+  },
+  {
+    "code": "YE-DH",
+    "long": {
+      "default": "Дамар"
+    }
+  },
+  {
+    "code": "YE-MR",
+    "long": {
+      "default": "Эль-Махра"
+    }
+  },
+  {
+    "code": "YE-HU",
+    "long": {
+      "default": "Ходейда"
+    }
+  },
+  {
+    "code": "YE-BA",
+    "long": {
+      "default": "Эль-Бейда"
+    }
+  },
+  {
+    "code": "YE-AD",
+    "long": {
+      "default": "Аден"
+    }
+  },
+  {
+    "code": "YE-AB",
+    "long": {
+      "default": "Абьян"
+    }
+  },
+  {
+    "code": "YE-DA",
+    "long": {
+      "default": "Эль-Дали"
+    }
+  },
+  {
+    "code": "YE-AM",
+    "long": {
+      "default": "Амран"
+    }
+  },
+  {
+    "code": "YE-HJ",
+    "long": {
+      "default": "Хадджа"
+    }
+  },
+  {
+    "code": "YE-IB",
+    "long": {
+      "default": "Ибб"
+    }
+  },
+  {
+    "code": "YE-LA",
+    "long": {
+      "default": "Лахдж"
+    }
+  },
+  {
+    "code": "YE-SA",
+    "long": {
+      "default": "Сана"
+    }
+  },
+  {
+    "code": "YE-SU",
+    "long": {
+      "default": "Сокотра"
+    }
+  },
+  {
+    "code": "WF-UV",
+    "long": {
+      "default": "Увеа"
+    }
+  },
+  {
+    "code": "WF-SG",
+    "long": {
+      "default": "Сигав"
+    }
+  },
+  {
+    "code": "WF-AL",
+    "long": {
+      "default": "Ало"
+    }
+  },
+  {
+    "code": "VN-22",
+    "long": {
+      "default": "Нгеан"
+    }
+  },
+  {
+    "code": "VN-18",
+    "long": {
+      "default": "Ниньбинь"
+    }
+  },
+  {
+    "code": "VN-36",
+    "long": {
+      "default": "Ниньтхуан"
+    }
+  },
+  {
+    "code": "VN-52",
+    "long": {
+      "default": "Шокчанг"
+    }
+  },
+  {
+    "code": "VN-51",
+    "long": {
+      "default": "Чавинь"
+    }
+  },
+  {
+    "code": "VN-07",
+    "long": {
+      "default": "Туенкуанг"
+    }
+  },
+  {
+    "code": "VN-49",
+    "long": {
+      "default": "Виньлонг"
+    }
+  },
+  {
+    "code": "VN-06",
+    "long": {
+      "default": "Йенбай"
+    }
+  },
+  {
+    "code": "VN-02",
+    "long": {
+      "default": "Лаокай"
+    }
+  },
+  {
+    "code": "VN-46",
+    "long": {
+      "default": "Тьензянг"
+    }
+  },
+  {
+    "code": "VN-26",
+    "long": {
+      "default": "Тхыатхьен-Хюэ"
+    }
+  },
+  {
+    "code": "VN-28",
+    "long": {
+      "default": "Контум"
+    }
+  },
+  {
+    "code": "VN-21",
+    "long": {
+      "default": "Тханьхоа"
+    }
+  },
+  {
+    "code": "VN-20",
+    "long": {
+      "default": "Тхайбинь"
+    }
+  },
+  {
+    "code": "VN-37",
+    "long": {
+      "default": "Тэйнинь"
+    }
+  },
+  {
+    "code": "VN-05",
+    "long": {
+      "default": "Шонла"
+    }
+  },
+  {
+    "code": "VN-25",
+    "long": {
+      "default": "Куангчи"
+    }
+  },
+  {
+    "code": "VN-13",
+    "long": {
+      "default": "Куангнинь"
+    }
+  },
+  {
+    "code": "VN-29",
+    "long": {
+      "default": "Куангнгай"
+    }
+  },
+  {
+    "code": "VN-24",
+    "long": {
+      "default": "Куангбинь"
+    }
+  },
+  {
+    "code": "VN-32",
+    "long": {
+      "default": "Фуйен"
+    }
+  },
+  {
+    "code": "VN-14",
+    "long": {
+      "default": "Хоабинь"
+    }
+  },
+  {
+    "code": "VN-41",
+    "long": {
+      "default": "Лонган"
+    }
+  },
+  {
+    "code": "VN-09",
+    "long": {
+      "default": "Лангшон"
+    }
+  },
+  {
+    "code": "VN-35",
+    "long": {
+      "default": "Ламдонг"
+    }
+  },
+  {
+    "code": "VN-01",
+    "long": {
+      "default": "Лайтяу"
+    }
+  },
+  {
+    "code": "VN-47",
+    "long": {
+      "default": "Кьензянг"
+    }
+  },
+  {
+    "code": "VN-34",
+    "long": {
+      "default": "Кханьхоа"
+    }
+  },
+  {
+    "code": "VN-23",
+    "long": {
+      "default": "Хатинь"
+    }
+  },
+  {
+    "code": "VN-03",
+    "long": {
+      "default": "Хазянг"
+    }
+  },
+  {
+    "code": "VN-30",
+    "long": {
+      "default": "Зялай"
+    }
+  },
+  {
+    "code": "VN-HN",
+    "long": {
+      "default": "Ханой"
+    }
+  },
+  {
+    "code": "VN-CT",
+    "long": {
+      "default": "Кантхо"
+    }
+  },
+  {
+    "code": "VN-HP",
+    "long": {
+      "default": "Хайфон"
+    }
+  },
+  {
+    "code": "VN-40",
+    "long": {
+      "default": "Биньтхуан"
+    }
+  },
+  {
+    "code": "VN-45",
+    "long": {
+      "default": "Донгтхап"
+    }
+  },
+  {
+    "code": "VN-39",
+    "long": {
+      "default": "Донгнай"
+    }
+  },
+  {
+    "code": "VN-33",
+    "long": {
+      "default": "Даклак"
+    }
+  },
+  {
+    "code": "VN-43",
+    "long": {
+      "default": "Бариа-Вунгтау"
+    }
+  },
+  {
+    "code": "VN-04",
+    "long": {
+      "default": "Каобанг"
+    }
+  },
+  {
+    "code": "VN-31",
+    "long": {
+      "default": "Биньдинь"
+    }
+  },
+  {
+    "code": "VN-50",
+    "long": {
+      "default": "Бенче"
+    }
+  },
+  {
+    "code": "VN-44",
+    "long": {
+      "default": "Анзянг"
+    }
+  },
+  {
+    "code": "VN-72",
+    "long": {
+      "default": "Дакнонг"
+    }
+  },
+  {
+    "code": "VN-71",
+    "long": {
+      "default": "Дьенбьен"
+    }
+  },
+  {
+    "code": "VN-56",
+    "long": {
+      "default": "Бакнинь"
+    }
+  },
+  {
+    "code": "VN-54",
+    "long": {
+      "default": "Бакзянг"
+    }
+  },
+  {
+    "code": "VN-DN",
+    "long": {
+      "default": "Дананг"
+    }
+  },
+  {
+    "code": "VN-57",
+    "long": {
+      "default": "Биньзыонг"
+    }
+  },
+  {
+    "code": "VN-58",
+    "long": {
+      "default": "Биньфыок"
+    }
+  },
+  {
+    "code": "VN-69",
+    "long": {
+      "default": "Тхайнгуен"
+    }
+  },
+  {
+    "code": "VN-27",
+    "long": {
+      "default": "Куангнам"
+    }
+  },
+  {
+    "code": "VN-68",
+    "long": {
+      "default": "Футхо"
+    }
+  },
+  {
+    "code": "VN-67",
+    "long": {
+      "default": "Намдинь"
+    }
+  },
+  {
+    "code": "VN-63",
+    "long": {
+      "default": "Ханам"
+    }
+  },
+  {
+    "code": "VN-53",
+    "long": {
+      "default": "Баккан"
+    }
+  },
+  {
+    "code": "VN-55",
+    "long": {
+      "default": "Бакльеу"
+    }
+  },
+  {
+    "code": "VN-59",
+    "long": {
+      "default": "Камау"
+    }
+  },
+  {
+    "code": "VN-61",
+    "long": {
+      "default": "Хайзыонг"
+    }
+  },
+  {
+    "code": "VN-66",
+    "long": {
+      "default": "Хынгйен"
+    }
+  },
+  {
+    "code": "VN-70",
+    "long": {
+      "default": "Виньфук"
+    }
+  },
+  {
+    "code": "VN-73",
+    "long": {
+      "default": "Хаузянг"
+    }
+  },
+  {
+    "code": "VE-V",
+    "long": {
+      "default": "Сулия"
+    }
+  },
+  {
+    "code": "VE-U",
+    "long": {
+      "default": "Яракуй"
+    }
+  },
+  {
+    "code": "VE-T",
+    "long": {
+      "default": "Трухильо"
+    }
+  },
+  {
+    "code": "VE-S",
+    "long": {
+      "default": "Тачира"
+    }
+  },
+  {
+    "code": "VE-R",
+    "long": {
+      "default": "Сукре"
+    }
+  },
+  {
+    "code": "VE-P",
+    "long": {
+      "default": "Португеса"
+    }
+  },
+  {
+    "code": "VE-O",
+    "long": {
+      "default": "Нуэва-Эспарта"
+    }
+  },
+  {
+    "code": "VE-N",
+    "long": {
+      "default": "Монагас"
+    }
+  },
+  {
+    "code": "VE-M",
+    "long": {
+      "default": "Миранда"
+    }
+  },
+  {
+    "code": "VE-L",
+    "long": {
+      "default": "Мерида"
+    }
+  },
+  {
+    "code": "VE-K",
+    "long": {
+      "default": "Лара"
+    }
+  },
+  {
+    "code": "VE-J",
+    "long": {
+      "default": "Гуарико"
+    }
+  },
+  {
+    "code": "VE-W",
+    "long": {
+      "default": "Федеральные владения"
+    }
+  },
+  {
+    "code": "VE-I",
+    "long": {
+      "default": "Фалькон"
+    }
+  },
+  {
+    "code": "VE-H",
+    "long": {
+      "default": "Кохедес"
+    }
+  },
+  {
+    "code": "VE-G",
+    "long": {
+      "default": "Карабобо"
+    }
+  },
+  {
+    "code": "VE-F",
+    "long": {
+      "default": "Боливар"
+    }
+  },
+  {
+    "code": "VE-E",
+    "long": {
+      "default": "Баринас"
+    }
+  },
+  {
+    "code": "VE-D",
+    "long": {
+      "default": "Арагуа"
+    }
+  },
+  {
+    "code": "VE-C",
+    "long": {
+      "default": "Апуре"
+    }
+  },
+  {
+    "code": "VE-B",
+    "long": {
+      "default": "Ансоатеги"
+    }
+  },
+  {
+    "code": "VE-Z",
+    "long": {
+      "default": "Амасонас"
+    }
+  },
+  {
+    "code": "VE-X",
+    "long": {
+      "default": "Варгас"
+    }
+  },
+  {
+    "code": "VU-TAE",
+    "long": {
+      "default": "Тафеа"
+    }
+  },
+  {
+    "code": "VU-SAM",
+    "long": {
+      "default": "Санма"
+    }
+  },
+  {
+    "code": "VU-TOB",
+    "long": {
+      "default": "Торба"
+    }
+  },
+  {
+    "code": "VU-MAP",
+    "long": {
+      "default": "Малампа"
+    }
+  },
+  {
+    "code": "VU-PAM",
+    "long": {
+      "default": "Пенама"
+    }
+  },
+  {
+    "code": "VU-SEE",
+    "long": {
+      "default": "Шефа"
+    }
+  },
+  {
+    "code": "UZ-QR",
+    "long": {
+      "default": "Каракалпакстан"
+    }
+  },
+  {
+    "code": "UZ-SU",
+    "long": {
+      "default": "Сурхандарьинская область"
+    }
+  },
+  {
+    "code": "UZ-SA",
+    "long": {
+      "default": "Самаркандская область"
+    }
+  },
+  {
+    "code": "UZ-TO",
+    "long": {
+      "default": "Ташкентская область"
+    }
+  },
+  {
+    "code": "UZ-SI",
+    "long": {
+      "default": "Сырдарьинская область"
+    }
+  },
+  {
+    "code": "UZ-NW",
+    "long": {
+      "default": "Навоийская область"
+    }
+  },
+  {
+    "code": "UZ-XO",
+    "long": {
+      "default": "Хорезмская область"
+    }
+  },
+  {
+    "code": "UZ-FA",
+    "long": {
+      "default": "Ферганская область"
+    }
+  },
+  {
+    "code": "UY-TT",
+    "long": {
+      "default": "Трейнта-и-Трес"
+    }
+  },
+  {
+    "code": "UY-TA",
+    "long": {
+      "default": "Такуарембо"
+    }
+  },
+  {
+    "code": "UY-SO",
+    "long": {
+      "default": "Сорьяно"
+    }
+  },
+  {
+    "code": "UY-SJ",
+    "long": {
+      "default": "Сан-Хосе"
+    }
+  },
+  {
+    "code": "UY-SA",
+    "long": {
+      "default": "Сальто"
+    }
+  },
+  {
+    "code": "UY-RO",
+    "long": {
+      "default": "Роча"
+    }
+  },
+  {
+    "code": "UY-RV",
+    "long": {
+      "default": "Ривера"
+    }
+  },
+  {
+    "code": "UY-RN",
+    "long": {
+      "default": "Рио-Негро"
+    }
+  },
+  {
+    "code": "UY-PA",
+    "long": {
+      "default": "Пайсанду"
+    }
+  },
+  {
+    "code": "UY-MO",
+    "long": {
+      "default": "Монтевидео"
+    }
+  },
+  {
+    "code": "UY-MA",
+    "long": {
+      "default": "Мальдонадо"
+    }
+  },
+  {
+    "code": "UY-LA",
+    "long": {
+      "default": "Лавальеха"
+    }
+  },
+  {
+    "code": "UY-FD",
+    "long": {
+      "default": "Флорида"
+    }
+  },
+  {
+    "code": "UY-FS",
+    "long": {
+      "default": "Флорес"
+    }
+  },
+  {
+    "code": "UY-DU",
+    "long": {
+      "default": "Дурасно"
+    }
+  },
+  {
+    "code": "UY-CO",
+    "long": {
+      "default": "Колония"
+    }
+  },
+  {
+    "code": "UY-CL",
+    "long": {
+      "default": "Серро-Ларго"
+    }
+  },
+  {
+    "code": "UY-CA",
+    "long": {
+      "default": "Канелонес"
+    }
+  },
+  {
+    "code": "UY-AR",
+    "long": {
+      "default": "Артигас"
+    }
+  },
+  {
     "code": "UM-84",
     "long": {
       "default": "Хауленд"
